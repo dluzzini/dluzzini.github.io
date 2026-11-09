@@ -7,6 +7,7 @@ export const SITE = {
   cv: '/cv/davide-luzzini-cv.html',
   orcid: 'https://orcid.org/0000-0002-9062-0806',
   scholar: 'https://scholar.google.es/citations?hl=en&user=Vc2t0NgAAAAJ&view_op=list_works&sortby=pubdate',
+  eada: 'https://www.eada.edu/en/faculty-and-research/departments/marketing-operations-and-supply/davide-luzzini',
   linkedin: 'https://www.linkedin.com/in/davide-luzzini/',
   jscm: 'https://onlinelibrary.wiley.com/journal/1745493x',
 };
