@@ -1,0 +1,1702 @@
+[
+ {
+  "key": "shevchenkoFootprintPerspectiveSustainable2026",
+  "y": 2026,
+  "d": "2026",
+  "t": "A footprint perspective for sustainable supply chain management research",
+  "a": [
+   "Shevchenko, A.",
+   "Luzzini, D."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "",
+  "pp": "",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.70033",
+  "url": "",
+  "ab": "Supply chain management research predominantly examines sustainability from the perspective of buying firms, analyzing how procurement strategies, supplier governance, and compliance mechanisms can reduce negative environmental and social outcomes associated with their supply chains. While this approach has advanced our understanding of firm‐level practices, it suffers from a fundamental unit‐of‐analysis problem: Socio‐ecological footprints emerge from the interaction of multiple supply chains and other actors within specific localities, yet research often treats the supply chains of individual buying firms as independent units. Consequently, interventions that appear successful for individual firms may leave harm in place or merely displace it rather than resolve underlying causes. We introduce the footprint perspective as a complementary approach to sustainable supply chain management research. While the buying firm perspective usually traces supply chains from the buying firm to its suppliers, the footprint perspective begins its investigation in the localities where supply chain activities are entangled with socio‐ecological systems. This perspective treats localities as the unit of analysis, examining how interdependencies among supply chains, locality actors, and ecosystems jointly produce socio‐ecological footprints. We compare the assumptions of these two perspectives and outline an empirical playbook for putting this conceptual shift into practice.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Systemic change",
+   "Research methods"
+  ],
+  "ed": true
+ },
+ {
+  "key": "vinayavekhinDriversDigitalTraceability2026",
+  "y": 2026,
+  "d": "2026",
+  "t": "Drivers of digital traceability system adoption for greenhouse gas emissions in complex supply chains",
+  "a": [
+   "Vinayavekhin, S.",
+   "Banerjee, A.",
+   "Li, F.",
+   "Luzzini, D."
+  ],
+  "v": "Journal of Business Logistics",
+  "vol": "47(3)",
+  "pp": "e70084",
+  "k": "Journal article",
+  "doi": "10.1111/jbl.70084",
+  "url": "",
+  "ab": "The global climate crisis is pushing firms toward sustainable supply chain practices, with digital technology offering a vital pathway to track greenhouse gas (GHG) emissions. This research investigates the factors influencing the adoption of digital traceability systems for managing these emissions, focusing on implementation scope and supply chain complexity (SCC). Drawing on Institutional Theory and Transaction Cost Economics, we conducted a choice‐based conjoint experiment with managers in manufacturing sectors to capture the trade‐offs in their decision‐making process. Our results show that firms are more likely to consider technology solutions when (a) those solutions cover Scope 1, 2, and 3 GHG emissions, and (b) there is greater SCC due to ‘detail‐numerousness’ (number of elements in a system) and ‘detail‐variety’ (heterogeneity of these elements). However, dynamic complexity (changing nature of elements) has an ambiguous impact on technology adoption. “Detail‐numerousness” (e.g., number of products produced) is the most critical attribute for internal operations, while “detail‐variety” (e.g., geographical dispersion and supplier heterogeneity) has the greatest impact on upstream supply chains. This research extends the supply chain technology adoption literature by providing a nuanced empirical understanding of how distinct dimensions of SCC at both internal and upstream levels shape the adoption of digital traceability.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Transparency",
+   "Digital procurement",
+   "Complexity"
+  ],
+  "ed": false
+ },
+ {
+  "key": "rodriguezAgroecologyRegenerativeSupply2026",
+  "y": 2026,
+  "d": "2026",
+  "t": "From agroecology to regenerative supply chain design: A systematic literature review",
+  "a": [
+   "Rodríguez, J. A.",
+   "Amaya-Rivas, A.",
+   "Samaniego, A.",
+   "Luzzini, D.",
+   "Merino-Gaibor, E."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "",
+  "pp": "101171",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2026.101171",
+  "url": "",
+  "ab": "This study bridges agroecology and regenerative supply chain management by translating agroecology's practice-based evidence into supply chain design terms for agri-food systems. Drawing on an abductive systematic literature review of 72 peer-reviewed articles, we synthesize four agroecology-informed supply chain practice sets: agroecological production, knowledge transfer and co-creation, embedded and solidarity-based market relationships, and organizing forms for value chain coordination. These practices were conceptualized into four agroecological supply chain configurations—bridged, scaffolded, civic, and territorial—that differ in who coordinates exchange, how demand is structured, and where capabilities and governance reside. We further map the four practice sets to core regenerative supply chain management principles and highlight distributive justice as a cross-cutting condition for durable regenerative outcomes. The study elaborates a developmental logic, which indicates that producer-led, territorially embedded chains supported by local innovation networks and deep producer-consumer integration are positively associated with systemic regeneration.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Food & agriculture",
+   "Systemic change"
+  ],
+  "ed": false
+ },
+ {
+  "key": "caniatoProcurementManagementStrategy2026",
+  "y": 2026,
+  "d": "2026",
+  "t": "Procurement management: Strategy, organization and tools",
+  "a": [
+   "Caniato, F.",
+   "Luzzini, D.",
+   "Moretto, A.",
+   "Patrucco, A.",
+   "Ronchi, S."
+  ],
+  "v": "Mondadori Education",
+  "vol": "",
+  "pp": "",
+  "k": "Book",
+  "doi": "",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy",
+   "Digital procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "schaeferTraceabilityMultitierSupply2025",
+  "y": 2025,
+  "d": "2025-12-15",
+  "t": "Traceability in multi-tier supply chains: Insights from five case studies",
+  "a": [
+   "Schaëfer, K.",
+   "Kähkönen, A.-K.",
+   "Luzzini, D."
+  ],
+  "v": "Supply Chain Management: An International Journal",
+  "vol": "30(7)",
+  "pp": "77–99",
+  "k": "Journal article",
+  "doi": "10.1108/SCM-07-2024-0428",
+  "url": "",
+  "ab": "Purpose The study aims to explore the complexities of multi-tier sustainable supply chain management (MT-SSCM) by investigating the factors that influence traceability and how these factors affect firms’ efforts towards MT-SSCM. Design/methodology/approach Using a multiple case study approach, this study provides empirical evidence from 25 firms across 5 multi-tier supply chains in various industries. The study involved 5 focal firms, 10 first-tier suppliers and 10 lower-tier suppliers as the primary data sources, obtaining data through 44 semi-structured interviews. Findings Using inductive data analysis, this study revealed four key factors that affect traceability for sustainability: supply chain complexity, regulatory and industry environments, information sharing and traceability resources. The findings highlight the role of traceability in driving firms’ efforts towards MT-SSCM. Practical implications This study offers valuable insights for firms and their purchasing and supply chain management on achieving supply chain traceability for sustainability. By understanding and leveraging these enablers, firms can develop appropriate strategies to achieve traceability for sustainable multi-tier supply chain management. Originality/value This study responds to the call for more research on the intersection of traceability and multi-tier supply chain management. Furthermore, it studies firms at multiple levels of the supply chain, including lower-tier suppliers.",
+  "src": "OpenAlex",
+  "tags": [
+   "Transparency",
+   "Sustainability",
+   "Complexity"
+  ],
+  "ed": false
+ },
+ {
+  "key": "galliEnhancingEconomicEnvironmental2025",
+  "y": 2025,
+  "d": "2025-12",
+  "t": "Enhancing economic and environmental sustainability in fruit and vegetable distribution through collaborative digital platforms",
+  "a": [
+   "Galli, G.",
+   "Siragusa, C.",
+   "Luzzini, D.",
+   "Tumino, A."
+  ],
+  "v": "Sustainable Futures",
+  "vol": "10",
+  "pp": "101486",
+  "k": "Journal article",
+  "doi": "10.1016/j.sftr.2025.101486",
+  "url": "",
+  "ab": "• Collaborative digital platforms can improve the sustainability of food distribution. • Collaborative digital platforms are currently adopted only in very early stage. • Collaboration reduces kilometres travelled and consequentially costs and emissions. Addressing environmental challenges has become increasingly urgent due to the significant impact of carbon emissions on our lives. Among the major contributors to these emissions is the food sector, where logistics plays a pivotal role and represents a key area for intervention. In response, recent literature has begun to explore digital and collaborative logistics solutions as promising alternatives to traditional models. Collaborative digital platforms are analysed but the debate is still in its early stages. This paper aims to contribute to this emerging discussion by first identifying the opportunities and barriers associated with this solution and then assessing its performance impacts. Through a combination of literature review, grey literature analysis, and expert interviews, the study investigates the practical implementation of these innovative solutions. An integrated economic and environmental assessment is then conducted to quantify their associated costs and emissions, providing insights to support informed decision-making. The findings reveal that, while the adoption of collaborative digital platforms remains limited, they have significant potential to deliver win–win outcomes from both economic and environmental standpoints. Indeed, they offer potential to reduce emissions produced and costs, despite the needed initial investments. The paper offers a twofold contribution: academically, by advancing the debate with concrete evidence and proposed pathways; and practically, by encouraging managers to rethink logistics strategies in support of decarbonization. Future research could refine the proposed model or explore its applicability to other sectors.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Social impact",
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniRethinkingSupplyChain2024b",
+  "y": 2024,
+  "d": "2024-10",
+  "t": "Rethinking Supply Chain Management in a Post‐Growth Era",
+  "a": [
+   "Luzzini, D.",
+   "Pagell, M.",
+   "Devenin, V.",
+   "Miemczyk, J.",
+   "Longoni, A.",
+   "Banerjee, B."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "60(4)",
+  "pp": "92–106",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12332",
+  "url": "",
+  "ab": "Supply chain management is grounded on the assumption that endless economic growth is compatible with environmental and social sustainability. Yet scholars from ecological economics question this assumption due to ever increasing evidence showing how hard it is to decouple growth from negative environmental and social externalities. In response, pressure from social movements is mounting, and the agendas of several countries already consider alternatives to growth. Therefore, this article presents a critical thought experiment for the supply chain management discipline: What are the implications of moving from the current endless growth paradigm to a post‐growth paradigm for businesses and their supply chains? Using the umbrella term “post‐growth,” this article identifies three key post‐growth principles—(i) socio‐ecological wellbeing, (ii) selective downscaling, and (iii) systems thinking—and then examines their implications for supply chain management research and practice.",
+  "src": "OpenAlex",
+  "tags": [
+   "Post-growth",
+   "Sustainability"
+  ],
+  "ed": true
+ },
+ {
+  "key": "fisherJustTransitionMaking2024",
+  "y": 2024,
+  "d": "2024",
+  "t": "A just transition towards making precarious work rare, safe, and legal",
+  "a": [
+   "Fisher, S. L.",
+   "Longoni, A.",
+   "Luzzini, D.",
+   "Pagell, M.",
+   "Wasserman, M.",
+   "Wiengarten, F."
+  ],
+  "v": "In The supply chain: A system in crisis (Edward Elgar Publishing Ltd.)",
+  "vol": "",
+  "pp": "111–125",
+  "k": "Book chapter",
+  "doi": "10.4337/9781803924922.00014",
+  "url": "",
+  "ab": "Supply chains often match the supply of labour to uncertain demand by using precarious workers. This increases flexibility and lowers costs for the supply chain by shifting risk to the workers and costs to society. Supply chains are maximizing profits, often literally, on the backs of their workers by creating serious negative externalities for society. We address this issue using a powerpower perspective because powerpower is asymmetrically oriented against workers in many supply chain contexts. This allows us to identify examples of how to reverse this trend and shift powerpower back to workers. The goal is to get to where stakeholders understand the costs and limited benefits of precarity, where we can separate the notion of flexibility from low costs, and where through a combination of incentives, policy, social norms of ethical behaviour, and consumer action, we can get to a better place than where we are now.",
+  "src": "OpenAlex",
+  "tags": [
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniDrivingSystemicChange2024",
+  "y": 2024,
+  "d": "2024",
+  "t": "Driving systemic change research within the PSM community",
+  "a": [
+   "Luzzini, D.",
+   "Longoni, A.",
+   "Difrancesco, R. M.",
+   "Savaget, P."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "30(2)",
+  "pp": "100923",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2024.100923",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Systemic change",
+   "Sustainability"
+  ],
+  "ed": true
+ },
+ {
+  "key": "longoniSocialEnterprisesSupply2024",
+  "y": 2024,
+  "d": "2024",
+  "t": "Social enterprises in supply chains: Driving systemic change through social impact",
+  "a": [
+   "Longoni, A.",
+   "Luzzini, D.",
+   "Pullman, M.",
+   "Seuring, S.",
+   "Donk, D. P."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "44(10)",
+  "pp": "1733–1749",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-10-2023-0835",
+  "url": "",
+  "ab": "Purpose This paper aims to provide a starting point to discuss how social enterprises can drive systemic change in terms of social impact through operations and supply chain management. Design/methodology/approach This paper reviews existing literature and the four papers in this special issue and develops a conceptual framework of how social enterprises and their supply chains create social impact and further enable systematic change. Findings Our paper finds that social impact and systemic change can be shaped by social enterprises at three different levels of analysis (organization, supply chain and context) and through three enablers (cognitive shift, stakeholder collaboration and scalability). Such dimensions are used to position current literature and to highlight new research directions. Originality/value This paper proposes a novel understanding of operations and supply chain management in social enterprises intended as catalysts for systemic change. Based on this premise we distinguish different practices and stakeholders to be considered when studying social impact at different levels. The conceptual framework introduced in the paper provides a new pathway for future research and debate by scholars engaged at the intersection of social impact, sustainable operations and supply chain management.",
+  "src": "OpenAlex",
+  "tags": [
+   "Social impact",
+   "Systemic change",
+   "Sustainability"
+  ],
+  "ed": true
+ },
+ {
+  "key": "atesUntyingGordianKnot2024",
+  "y": 2024,
+  "d": "2024",
+  "t": "Untying the Gordian knot: A systematic review and integrative framework of supply network complexity",
+  "a": [
+   "Ateş, M. A.",
+   "Luzzini, D."
+  ],
+  "v": "Journal of Business Logistics",
+  "vol": "45(1)",
+  "pp": "e12365",
+  "k": "Journal article",
+  "doi": "10.1111/jbl.12365",
+  "url": "",
+  "ab": "The escalating complexity of supply networks is undeniable, and organizations grapple with myriad globally dispersed suppliers spanning diverse industries and operating amid volatility and uncertainty while having multifaceted interactions. In line with this, scholars have been investigating supply network complexity (SNC) for over two decades, yet the domain is not converging; definitions and operationalizations are varied, a multiplicity of theoretical perspectives exists, performance implications are inconclusive, and supply chain managers are certainly still struggling with the complexity of their supply networks. To address this critical gap, we conducted a rigorous systematic review of 116 articles and synthesized the extant research in a comprehensive nomological network of SNC. Our synthesis encompasses the following key aspects: (i) defining (sub)dimensions of SNC by reconciling diverse conceptualizations, (ii) elaborating on the direct and contingent effects of SNC by highlighting underlying mechanisms and relevant theories, (iii) identifying antecedents of SNC, and (iv) introducing a detailed categorization of SNC management practices and illustrating SNC management capability as an antecedent of such practices. We conclude by presenting an extensive research agenda illustrating the gaps in the literature and charting a path forward in relation to different themes, theories, and methods.",
+  "src": "OpenAlex",
+  "tags": [
+   "Complexity",
+   "Research methods"
+  ],
+  "ed": false
+ },
+ {
+  "key": "massasaluzzoHowSocialEntrepreneurs2023",
+  "y": 2023,
+  "d": "2023",
+  "t": "How Social Entrepreneurs Create Systemic Change: A Comparative Analysis of for-Profit and Nonprofit Models",
+  "a": [
+   "Massa Saluzzo, F.",
+   "Luzzini, D.",
+   "Ricucci, R."
+  ],
+  "v": "In The International Handbook of Social Enterprise Law (Springer International Publishing)",
+  "vol": "",
+  "pp": "193–209",
+  "k": "Book chapter",
+  "doi": "10.1007/978-3-031-14216-1_10",
+  "url": "",
+  "ab": "This chapter summarizes the main results of a qualitative study conducted in collaboration with Ashoka Spain regarding systemic change and the mechanisms to achieve it. This is part of a larger study that will be conducted over the next few months. This qualitative study compares the characteristics of systemic change in for-profit and nonprofit social enterprises with the goal of understanding the specific mechanisms put in place by the two types of organizations to achieve such deep and sustainable change.",
+  "src": "OpenAlex",
+  "tags": [
+   "Social impact",
+   "Systemic change",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "selviaridisHowStrategicPublic2023",
+  "y": 2023,
+  "d": "2023",
+  "t": "How strategic public procurement creates social value: Evidence from UK anchor institutions",
+  "a": [
+   "Selviaridis, K.",
+   "Luzzini, D.",
+   "Mena, C."
+  ],
+  "v": "Public Management Review",
+  "vol": "",
+  "pp": "",
+  "k": "Journal article",
+  "doi": "10.1080/14719037.2023.2277814",
+  "url": "",
+  "ab": "This study investigates how public procurement is used strategically to create social value.Public management research has analysed the different levels, forms, and processes of social value creation, but little is known about the role of public procurement in this respect.Based on 17 cases of UK public-sector anchor institutions (Metropolitan Councils and hospitals), we unveil social value-oriented procurement strategies, inter-organizational structures, supplier management practices, and capability development and performance assessment activities.We contribute to public administration research by showing how social value policies translate into strategic procurement goals and activities.",
+  "src": "OpenAlex",
+  "tags": [
+   "Public procurement",
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoWhatRightPurchasing2023",
+  "y": 2023,
+  "d": "2023",
+  "t": "What is the right purchasing strategy for your company? The fit between strategic intent, strategic purchasing and perceived environmental uncertainty",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Krause, D.",
+   "Moretto, A. M."
+  ],
+  "v": "International Journal of Physical Distribution and Logistics Management",
+  "vol": "53(9)",
+  "pp": "1043–1072",
+  "k": "Journal article",
+  "doi": "10.1108/IJPDLM-07-2021-0286",
+  "url": "",
+  "ab": "Purpose The authors empirically examine purchasing strategy typologies based on strategic intent (i.e. competitive priorities) and practices used to achieve these priorities. The authors further investigate the implementation conditions of such strategies based on perceived uncertainty and strategic purchasing. Design/methodology/approach The authors utilize case study data from 11 international service and manufacturing firms with global supply chains. Each company was profiled based on the level of perceived environmental uncertainty, the characteristics of strategic purchasing, the use of relevant purchasing practices and its ability to create value through purchasing. Findings The study findings show that four purchasing strategy types exist: Purchasing Rationalization, Supply Base Optimization, Purchasing as a Service and World-Class Supply Base Management. Lower levels of perceived environmental uncertainty favor the adoption of rationalization strategies (i.e. Purchasing Rationalization and Supply Base Optimization), while increased uncertainty leads companies to switch to relationship-focused strategies (i.e. Purchasing as a Service and World-Class Supply Base Management). Further, that specific components of strategic purchasing (i.e. strategic planning, maturity, status and report level) enable the successful implementation of different strategy types. Originality/value This research contributes to the existing literature by outlining the different types of purchasing strategies and the external and internal factors that need to be considered to achieve strategic alignment and value creation in purchasing, and by classifying purchasing strategy types at the functional level based on empirical evidence.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "akinatesEditorialJudgeJury2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Editorial: From judge to jury: The potential for crowd reviewing",
+  "a": [
+   "Akın Ateş, M.",
+   "Luzzini, D.",
+   "Meehan, J.",
+   "Suurmond, R."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "28(2)",
+  "pp": "100770",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2022.100770",
+  "url": "",
+  "ab": "In this editorial, we introduce the four best papers selected from the IPSERA 2021 conference for this special issue of the Journal. We discuss how a double-blind crowd review (CR) process was used as an alternative to the traditional “two reviewer” double-blind peer review system. After a brief review of the literature and the existing debate around academic peer review, we introduce the main characteristics of CR. Next, at the core of our discussion, we report on the results of a pilot CR project that we conducted to review JPSM articles associated with the 2021 IPSERA Conference. We describe in detail the review process, and we illustrate the feedback received from reviewers and authors on the CR process, as well as our perspective as guest editors. Finally, we draw some conclusions and present recommendations for CR in the Purchasing and Supply Management (PSM) field. The CR pilot contributes to the wider debate around peer-reviewing by offering insights into the experience of different stakeholders and by highlighting the benefits and pitfalls of CR.",
+  "src": "OpenAlex",
+  "tags": [
+   "Research methods"
+  ],
+  "ed": true
+ },
+ {
+  "key": "aceroIntroducingSynchromodalityOne2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Introducing synchromodality: One missing link between transportation and supply chain management",
+  "a": [
+   "Acero, B.",
+   "Saenz, M. J.",
+   "Luzzini, D."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "58(1)",
+  "pp": "51–64",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12269",
+  "url": "",
+  "ab": "This study develops and tests the synchromodality construct, a novel supply chain concept that integrates the flexible use of different transport modes based on real‐time information. At a time when global supply chains are complex and subject to uncertainty, synchromodality has emerged at the forefront of research and practice as a tool to ensure efficient delivery performance and thus supply chain competitiveness. Despite synchromodality is attracting the attention of leading companies and policy makers, only scholars within the transport research community have engaged with the topic so far. We believe a supply chain management perspective is missing, but essential, to develop the full potential of synchromodality. Our study shows that synchromodality capabilities encapsulate four key elements: visibility , integration , multi ‐ modal transport , and flexibility . Thanks to a three‐stage research approach exploiting multiple methods, this study conceptualizes, develops, and validates the first synchromodality measurement model, which reflects the multidimensional nature of the concept. We hope to set the stage for a number of potential future research opportunities that can explore synchromodality implementation and outcomes.",
+  "src": "OpenAlex",
+  "tags": [
+   "Logistics",
+   "Transparency"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoManagingTriadicSupplier2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Managing triadic supplier relationships in collaborative innovation projects: a relational view perspective",
+  "a": [
+   "Patrucco, A.",
+   "Harland, C. M.",
+   "Luzzini, D.",
+   "Frattini, F."
+  ],
+  "v": "Supply Chain Management",
+  "vol": "27(7)",
+  "pp": "108–127",
+  "k": "Journal article",
+  "doi": "10.1108/SCM-05-2021-0220",
+  "url": "",
+  "ab": "Purpose Suppliers are essential partners in innovation projects, as they own resources, knowledge assets and capabilities that complement those of buying firms. In today’s competitive environment, firms may choose to collaborate with suppliers beyond dyads, forming triadic or three-party relationships. Using the theoretical lens of the relational view (RV), this study aims to explore what type of triad configurations firms use to govern supplier relationships in collaborative innovation projects, how they choose to share resources and implications for project performance. Design/methodology/approach The authors use interview data from buyers and suppliers in six case studies of firms involved in ten collaborative innovation projects. The four constructs of the RV are used to observe how firms govern triadic relationships, combine complementary resources, invest in relationship-specific assets and manage information and knowledge exchange with and between suppliers in innovation projects. Findings Four archetypes of triadic relationships in innovation projects – labeled Triangle, A-frame, D-Frame and Line – are presented and characterized in terms of their structural and relational features. The authors discuss how each triad archetype is applicable to different innovation projects according to specific project characteristics. Originality/value This study is pioneering in its empirical examination of triadic relationships in collaborative innovation projects. It provides a novel typology of four archetypes of triad from the perspective of collaborative relationships with suppliers. Through applying the RV, it advances understanding of how triadic relationships are governed, how they invest in relationship-specific assets, how they combine complementary resources and how they exchange knowledge and information in each type of triad appropriate to different innovation project settings. To date, much of the extant literature has focused on dyads.",
+  "src": "OpenAlex",
+  "tags": [
+   "Buyer–supplier relations",
+   "Innovation",
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "kauppiMeasuringInstitutionalPressures2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Measuring institutional pressures in a supply chain context: Scale development and testing",
+  "a": [
+   "Kauppi, K.",
+   "Luzzini, D."
+  ],
+  "v": "Supply Chain Management",
+  "vol": "27(7)",
+  "pp": "79–107",
+  "k": "Journal article",
+  "doi": "10.1108/SCM-04-2021-0169",
+  "url": "",
+  "ab": "Purpose Increasing amount of empirical research in operations and supply chain management is using institutional theory as its theoretical lens. Yet, a common scale to measure the three institutional pressures – coercive, mimetic and normative – is lacking. Many studies use proxies or a single, grouped, construct of external pressures which present methodological challenges. This study aims to present the development of multi-item scales to measure institutional pressures (in a purchasing context). Design/methodology/approach First, items were generated based on the theoretical construct definitions. These items were then tested through academic sorting and an international survey. The first empirical testing failed to produce reliable and valid scales, and further refinement and analysis revealed that coercive pressure splits into two separate constructs. A second q-sorting was then conducted with purchasing practitioners, followed by another survey in Italy to verify the new measurement scale for four institutional pressures. Findings The multimethod and multistage measurement development reveals that empirically the three institutional pressures actually turn into four pressures. The theoretical construct of coercive pressure splits into two distinct constructs: coercive market pressure and coercive regulatory pressure. Originality/value The results of the paper, namely, the measurement scales, are an important theoretical and methodological contribution to future empirical research. They present a much-needed measurement for these theoretical constructs increasingly used in management research.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "akinatesOrderChaosMetaanalysis2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Order from chaos: A meta-analysis of supply chain complexity and firm performance",
+  "a": [
+   "Akın Ateş, M.",
+   "Suurmond, R.",
+   "Luzzini, D.",
+   "Krause, D."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "58(1)",
+  "pp": "3–30",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12264",
+  "url": "",
+  "ab": "Increased globalization, varying customer requirements, extended product lines, uncertainty regarding supplier performance, and myriad related factors make supply chains utterly complex. While previous research indicates that supply chain complexity plays an important role in explaining performance outcomes, the accumulating evidence is ambiguous. Thus, a finer‐grained analysis is required. By meta‐analyzing 27,668 observations across 102 independent samples from 123 empirical studies, we examine the link between supply chain complexity and firm performance. While the preponderance of evidence from previous studies identifies supply chain complexity as detrimental to firm performance, our results illustrate that although supply chain complexity has a negative effect on operational performance, it has a positive effect on innovation performance and financial performance. Furthermore, we also distinguish among different levels of supply chain (i.e., upstream, downstream, and internal) and observe nuanced findings. Finally, our findings also reveal moderating effects of construct operationalization and study design characteristics. We discuss implications for theory and practice and provide avenues for future research.",
+  "src": "OpenAlex",
+  "tags": [
+   "Complexity",
+   "Research methods",
+   "Supply chain finance"
+  ],
+  "ed": false
+ },
+ {
+  "key": "difrancescoPurchasingRealizedAbsorptive2022",
+  "y": 2022,
+  "d": "2022",
+  "t": "Purchasing realized absorptive capacity as the gateway to sustainable supply chain management",
+  "a": [
+   "Difrancesco, R. M.",
+   "Luzzini, D.",
+   "Patrucco, A. S."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "42(5)",
+  "pp": "603–636",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-10-2021-0627",
+  "url": "",
+  "ab": "Purpose Companies' ability to build sustainable supply chains and achieve strategic sustainability objectives largely depends on their supply network characteristics and the nature of the relationships with strategic suppliers. This poses the question of how purchasing departments can help to translate this sustainability commitment into performance benefits. The authors focus the attention on buyer-supplier information sharing practices and study how the availability of information interplays with the purchasing realized absorptive capacity (PRAC) to positively impact performance (operational, environmental and social). Design/methodology/approach The study collected data from 305 procurement executives in four European countries and tested the hypotheses empirically using structural equation modeling. Mediation analysis is used to test the effect of PRAC on the relationship between buyer-supplier information sharing and performance. Findings The results show that increasing buyer-supplier information sharing is sufficient to obtain a positive impact on operational performance. To improve purchasing sustainability performance, companies need to develop their PRAC to adequately transform and exploit external information and identify opportunities in the environmental and social areas. Thanks to these purchasing capabilities, organizations can overcome potential trade-offs between different performance dimensions. Originality/value In the context of collaborative buyer-supplier relationships, this study is one of the first to propose purchasing knowledge management capabilities (i.e. PRAC) as a key factor to improve multiple performance dimensions. Additionally, it captures different sustainability aspects, concluding that organizations can improve purchasing operational, environmental and social performances by implementing appropriate information sharing mechanisms with suppliers and developing their PRAC.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Purchasing strategy",
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "gerkeInnovationConfigurationsSport2021",
+  "y": 2021,
+  "d": "2021",
+  "t": "Innovation configurations in sport clusters: The role of interorganizational citizenship and social capital",
+  "a": [
+   "Gerke, A.",
+   "Luzzini, D.",
+   "Mena, C."
+  ],
+  "v": "Journal of Business Research",
+  "vol": "133",
+  "pp": "409–419",
+  "k": "Journal article",
+  "doi": "10.1016/j.jbusres.2021.04.064",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniMeasuringPerformanceCompany2021",
+  "y": 2021,
+  "d": "2021",
+  "t": "Measuring performance beyond the company boundaries: More a need than a challenge",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Patrucco, A."
+  ],
+  "v": "Rutgers Business Review",
+  "vol": "6(1)",
+  "pp": "57–70",
+  "k": "Journal article",
+  "doi": "",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniSupplierPerformanceMeasurement2021",
+  "y": 2021,
+  "d": "2021",
+  "t": "Supplier performance measurement system use, relationship trust, and performance improvement: a dyadic perspective",
+  "a": [
+   "Maestrini, V.",
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Maccarrone, P."
+  ],
+  "v": "International Journal of Logistics Management",
+  "vol": "32(4)",
+  "pp": "1242–1263",
+  "k": "Journal article",
+  "doi": "10.1108/IJLM-08-2020-0339",
+  "url": "",
+  "ab": "Purpose Grounding on resource orchestration theory, this paper aims to study the relationship between the way buying companies use their supplier performance measurement systems and the performance improvements obtained from suppliers, with relationship trust identified as a mediator in the previous link. Design/methodology/approach The authors design a conceptual model and test it through structural equation modelling on a final sample of 147 buyer-supplier responses, collected by means of a dyadic survey. Findings Results suggest that the buyer company may achieve the most by balancing a diagnostic and interactive use of the measurement system, as they are both positively related to supplier performance improvement. Furthermore, relationship trust acts as a mediator in case of the interactive use, but not for the diagnostic. This type of use negatively affects relationship trust, due to its mechanistic use in the buyer-supplier relationship. Originality/value The authors’ results contribute to the current academic debate about supplier performance measurement system design and use by analyzing the impact of different supplier performance measurement system uses, and highlighting their relative impact on relationship trust and supplier performance improvement. From a methodological perspective, adopting a dyadic data collection process increases the robustness of the findings.",
+  "src": "OpenAlex",
+  "tags": [
+   "Performance measurement",
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "gualandrisAssociationSupplyChain2021",
+  "y": 2021,
+  "d": "2021",
+  "t": "The association between supply chain structure and transparency: A large-scale empirical study",
+  "a": [
+   "Gualandris, J.",
+   "Longoni, A.",
+   "Luzzini, D.",
+   "Pagell, M."
+  ],
+  "v": "Journal of Operations Management",
+  "vol": "67(7)",
+  "pp": "803–827",
+  "k": "Journal article",
+  "doi": "10.1002/joom.1150",
+  "url": "",
+  "ab": "An emerging body of work acknowledges the challenges focal firms face in gathering material information about their extended supply chains and begins to point to the role of supply chain structure in influencing supply chain transparency. Still, large‐scale empirical evidence on this complex association remains elusive, especially at the supply chain level of analysis. We begin to bridge this empirical gap by examining whether supply chain structure systematically associates to supply chain transparency in the context of the collective public environmental, social, and governance (ESG) disclosures made by a focal firm's customers, suppliers, and subsuppliers. To shed light on this underexplored empirical phenomenon, we gather Bloomberg SPLC data and Bloomberg ESG data about 4803 firms and 20,504 contractual ties organized in 187 extended supply chains. We find that supply chain density positively associates with supply chain transparency, whereas supply chain clustering holds a negative association. We also find that supply chain geographical heterogeneity positively associates with supply chain transparency. Our results significantly expand the literature on supply chain transparency and are relevant to supply chain professionals because they emphasize the central role of supply chain structure in enabling or constraining supply chain transparency.",
+  "src": "OpenAlex",
+  "tags": [
+   "Transparency",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoObtainingSupplierCommitment2020",
+  "y": 2020,
+  "d": "2020",
+  "t": "Obtaining supplier commitment: Antecedents and performance outcomes",
+  "a": [
+   "Patrucco, A. S.",
+   "Moretto, A.",
+   "Luzzini, D.",
+   "Glas, A. H."
+  ],
+  "v": "International Journal of Production Economics",
+  "vol": "220",
+  "pp": "107449",
+  "k": "Journal article",
+  "doi": "10.1016/j.ijpe.2019.07.022",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "miemczykAchievingTripleBottom2019",
+  "y": 2019,
+  "d": "2019",
+  "t": "Achieving triple bottom line sustainability in supply chains: The role of environmental, social and risk assessment practices",
+  "a": [
+   "Miemczyk, J.",
+   "Luzzini, D."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "39(2)",
+  "pp": "238–259",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-06-2017-0334",
+  "url": "",
+  "ab": "Purpose Companies are increasingly challenged by sustainability-related supply chain risks. Research has developed linking supply chain sustainability priorities, practices and triple bottom line performance; however, risk is rarely included in these models. The purpose of this paper is to understand the link between sustainable supply chain strategies, practices and performance, and to test the importance of risk management practices in this relationship focusing on the product category level. Design/methodology/approach The paper includes a survey of supply managers in four countries with 305 responses, with a focus on upstream supply chain strategies at the product category level. Findings The environmental and social sustainability strategies lead to sustainable supply sustainable performance, through focused practices in either area, but the effect on operational and cost performance is not significant. Social supply chain strategies positively impact environmental and cost performance when mediated by risk assessment practices. Originality/value This paper shows a more nuanced view of the impact of supply chain practices on the strategy–performance link. It is one of the first papers to empirically test the role of risk practices in sustainable supply chain management and emphasize the importance of alignment across the main dimensions of sustainability to achieve positive sustainable performance outcomes, but not necessarily cost and operational performance. Unlike other studies, social sustainability priorities may positively impact environmental and social performance and is linked to cost advantage when implemented with risk assessment practices.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoAttractionBuyerSupplier2019",
+  "y": 2019,
+  "d": "2019",
+  "t": "Attraction in buyer–supplier relationships: Improving supply network performance through purchasing recognition and proficient collaboration initiatives",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Moretto, A.",
+   "Ronchi, S."
+  ],
+  "v": "Business Process Management Journal",
+  "vol": "25(2)",
+  "pp": "347–367",
+  "k": "Journal article",
+  "doi": "10.1108/BPMJ-06-2017-0137",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to shed light on the dynamics of buyer–supplier industrial relationships and the role of customer attractiveness—a requisite to obtain best efforts from suppliers involved in collaborative initiatives. Design/methodology/approach The paper develops a theoretical framework tested through an international survey with a structured equation modeling approach. Findings Results confirm that customer attractiveness positively affects both innovation and cost performance ensured by suppliers. Moreover, several direct and indirect antecedents of customer attractiveness are identified, including characteristics of the buying firm’s procurement department (i.e. procurement knowledge and procurement status) and supply chain relationship characteristics (i.e. proficiency of supplier collaboration and visibility). Research limitations/implications Because of the survey approach, the research results are limited to the data collected. Practical implications Findings support the relevance of collaborative relationships in improving performance, and the key role procurement department could play in managing the multifaceted aspects of supplier collaboration. Originality/value This paper investigates, on the one hand, why customer attractiveness is relevant for supply chain management, and what are the effects on innovation and cost performance ensured by suppliers; on the other hand, antecedents of customer attractiveness are considered, with a main focus on organizational and relational procurement variables.",
+  "src": "OpenAlex",
+  "tags": [
+   "Buyer–supplier relations",
+   "Social impact",
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "longoniBusinessSocietySocietys2019",
+  "y": 2019,
+  "d": "2019",
+  "t": "Business for Society is Society’s Business: Tension Management in a Migrant Integration Supply Chain",
+  "a": [
+   "Longoni, A.",
+   "Luzzini, D.",
+   "Pullman, M.",
+   "Habiague, M."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "55(4)",
+  "pp": "3–33",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12213",
+  "url": "",
+  "ab": "Social enterprises are acquiring an increasingly relevant role as focal organizations for managing supply chains to address social problems. We argue that the presence of misaligned institutional logics between these focal organizations and their supply chain stakeholders generates tensions. Building on institutional theory and paradox theory, we analyzed seven dyadic relationships between a single focal social enterprise with a goal of migrant integration and its supply chain stakeholders. We propose relationship management mechanisms related to relationship governance, power, and trust to manage such tensions. We observe the application of different relationship management mechanisms relative to different types of tensions. Finally, we relate different relationship management mechanisms to specific tension management approaches referred to as complementarity, acceptance, and accommodation, and offer propositions based on our findings.",
+  "src": "OpenAlex",
+  "tags": [
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoOrganisationalChoicesPublic2019",
+  "y": 2019,
+  "d": "2019",
+  "t": "Organisational choices in public procurement: What can public management learn from the private sector?",
+  "a": [
+   "Patrucco, A. S.",
+   "Moretto, A.",
+   "Ronchi, S.",
+   "Luzzini, D."
+  ],
+  "v": "Local Government Studies",
+  "vol": "45(6)",
+  "pp": "977–1000",
+  "k": "Journal article",
+  "doi": "10.1080/03003930.2019.1608827",
+  "url": "",
+  "ab": "In the public context, the efficient and effective management of procurement activities has a crucial impact on the achievement of operational and broader government objectives. In particular, the potential contribution of procurement within local governments has been broadly recognized, and organisational procurement choices represent a strategic aspect that must be managed to contribute to these objectives. Through the analysis of data on 371 Italian municipalities, this paper discusses how to design procurement organisation variables for local governments. Three possible organisational models are identified (i.e., authoritative procurement, silo procurement, and local procurement) and discussed from the perspective of internal and external contingencies that may affect organisational decisions.",
+  "src": "OpenAlex",
+  "tags": [
+   "Public procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "gastaldiProfessionalsUseICT2019",
+  "y": 2019,
+  "d": "2019",
+  "t": "Professionals' use of ICT in hospitals: The interplay between institutional and rational factors",
+  "a": [
+   "Gastaldi, L.",
+   "Radaelli, G.",
+   "Lettieri, E.",
+   "Luzzini, D.",
+   "Corso, M."
+  ],
+  "v": "International Journal of Technology Management",
+  "vol": "80(1–2)",
+  "pp": "85–106",
+  "k": "Journal article",
+  "doi": "10.1504/IJTM.2019.099768",
+  "url": "",
+  "ab": "This study gathers novel evidence on the interplay between the organisational and the individual mechanisms that affect the continued use of Electronic Medical Record (EMR) in hospitals. Our model integrates mechanisms inspired by both Institutional Theory (i.e., organisational expectations, change culture and alignment of meaning systems) and Technology Acceptance Models (i.e., perceived usefulness and ease of use). Tested on hospital professionals, our results point out the predominant role played by rational, individual-level mechanisms and the interplay with organisational expectations, as the only institutional factor that affects the continued use through both direct and mediate relationships.",
+  "src": "OpenAlex",
+  "tags": [
+   "Digital procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoWhichShapeFits2019a",
+  "y": 2019,
+  "d": "2019",
+  "t": "Which shape fits best? Designing the organizational form of local government procurement",
+  "a": [
+   "Patrucco, A. S.",
+   "Walker, H.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "25(3)",
+  "pp": "100504",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2018.06.003",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Public procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "krauseBuildingCaseSingle2018b",
+  "y": 2018,
+  "d": "2018",
+  "t": "Building the Case for A Single Key Informant in Supply Chain Management Survey Research",
+  "a": [
+   "Krause, D.",
+   "Luzzini, D.",
+   "Lawson, B."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "54(1)",
+  "pp": "42–50",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12159",
+  "url": "",
+  "ab": "Survey research is appropriate and necessary to address certain types of research questions. In this paper, we acknowledge the ongoing debate about survey research and focus specifically on examining the conditions under which a study might validly utilize data provided by a single respondent. To this end, we summarize the main challenges that survey research in supply chain management faces when dealing with single respondents and later argue that having multiple respondents does not necessarily represent a cure‐all solution. Next, we discuss the concept of alignment in survey research and explore the characteristics of research questions that can be addressed through single key informants. We conclude the paper by suggesting that researchers should carefully consider the appropriateness of single key informants in light of the type of research question and also clearly support such choice when describing the method adopted.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "longoniDeployingEnvironmentalManagement2018",
+  "y": 2018,
+  "d": "2018",
+  "t": "Deploying Environmental Management Across Functions: The Relationship Between Green Human Resource Management and Green Supply Chain Management",
+  "a": [
+   "Longoni, A.",
+   "Luzzini, D.",
+   "Guerci, M."
+  ],
+  "v": "Journal of Business Ethics",
+  "vol": "151(4)",
+  "pp": "1081–1095",
+  "k": "Journal article",
+  "doi": "10.1007/s10551-016-3228-1",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniEffectsMonitoringIncentives2018a",
+  "y": 2018,
+  "d": "2018",
+  "t": "Effects of monitoring and incentives on supplier performance: An agency theory perspective",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Ronchi, S."
+  ],
+  "v": "International Journal of Production Economics",
+  "vol": "203",
+  "pp": "322–332",
+  "k": "Journal article",
+  "doi": "10.1016/j.ijpe.2018.07.008",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "pullmanEMERGINGDISCOURSEINCUBATOR2018b",
+  "y": 2018,
+  "d": "2018",
+  "t": "EMERGING DISCOURSE INCUBATOR: The Roles of Institutional Complexity and Hybridity in Social Impact Supply Chain Management",
+  "a": [
+   "Pullman, M.",
+   "Longoni, A.",
+   "Luzzini, D."
+  ],
+  "v": "Journal of Supply Chain Management",
+  "vol": "54(2)",
+  "pp": "3–20",
+  "k": "Journal article",
+  "doi": "10.1111/jscm.12163",
+  "url": "",
+  "ab": "Supply chain research and practice has moved beyond green or environmental issues to include social issues. But much of the focus still remains on attempts of large companies to reduce social harm along their supply chains rather than creating social good. At the same time, research investigating the role of NGOs in supply chains or humanitarian logistics often emphasizes temporary initiatives and overlooks long‐term viability. This conceptual paper seeks to expand the playing field by looking at how social enterprises manage their supply chains to generate social benefit while maintaining or improving their financial viability in the long term. Our contribution is to consider those socially motivated organizations that lie on the continuum between purely social and purely commercial enterprises. We consider how these organizations manage their supply chains for social impact and define this area as social impact supply chain management (SISCM). In this work, we view these organizations and managerial issues through the lens of institutional complexity, that is, the presence of multiple and possibly conflicting institutional logics in the focal organization. We propose that, for these organizations, supply chain strategy, stakeholder identification and engagement, and relationship management might differentiate SISCM from traditional supply chain management. And as a result, we offer future research directions that might add clarity to effective SISCM.",
+  "src": "OpenAlex",
+  "tags": [
+   "Social impact",
+   "Complexity",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniMeasuringSupplyChain2018b",
+  "y": 2018,
+  "d": "2018",
+  "t": "Measuring supply chain performance: a lifecycle framework and a case study",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Maccarrone, P.",
+   "Ronchi, S."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "38(4)",
+  "pp": "934–956",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-07-2015-0455",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to provide a conceptual framework of the supply chain performance measurement system (SCPMS) lifecycle (highlighting key activities of the design, implementation, use and review phases) and to investigate how the different actors involved in the SCPMS perceive the system and can act to allow for an effective adoption. Design/methodology/approach The SCPMS lifecycle framework is developed grounding on performance measurement and supply chain (SC) management literature. To answer the two theory-building research questions, an in-depth case study involving seven firms across three tiers of the mass retail SC has been conducted. Findings The empirical evidence highlighted potential SCPMS benefits (including operational performance improvement, higher control, lower information overloading and higher SC integration) and criticalities/barriers to an effective adoption (lack of industry standards, lack of trust regarding data reliability, SCPMS as a tool of power, lack of interest in the system and the performance metrics). Several elements characterizing the SCPMS lifecycle could increase its effective adoption: engaging SC partners in the design phase; relying on a rigorous primary data collection and performance measures calculation; and actively exploiting the tool through a systematic discussion on performance and establishing incentive/disincentives plans. Originality/value The paper contributes to the conceptualization of SCPMSs and to clarify how to ensure an effective SCPMS adoption: apart from relationship-specific attributes, SCPMS lifecycle phases are suggested to have a key role.",
+  "src": "OpenAlex",
+  "tags": [
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniSupplierPerformanceMeasurement2018a",
+  "y": 2018,
+  "d": "2018",
+  "t": "Supplier performance measurement systems: Communication and reaction modes",
+  "a": [
+   "Maestrini, V.",
+   "Maccarrone, P.",
+   "Caniato, F.",
+   "Luzzini, D."
+  ],
+  "v": "Industrial Marketing Management",
+  "vol": "74",
+  "pp": "298–308",
+  "k": "Journal article",
+  "doi": "10.1016/j.indmarman.2018.07.002",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniImpactSupplierPerformance2018b",
+  "y": 2018,
+  "d": "2018",
+  "t": "The impact of supplier performance measurement systems on supplier performance: A dyadic lifecycle perspective",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Maccarrone, P.",
+   "Ronchi, S."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "38(11)",
+  "pp": "2040–2061",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-10-2016-0589",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to empirically investigate the impact of a mature supplier performance measurement system (SPMS) adoption all along its lifecycle phases (i.e. design, implementation, use and review) on the suppliers’ performance. Design/methodology/approach The research hypotheses have been tested on a final sample of 147 pairs of buyer-supplier responses, collected by means of a dyadic survey involving manufacturing firms and one key supplier of their choice. The research framework has been tested through a structural model using PLS regression. Findings Considering the joint effect of all the four SPMS phases on supplier performance, the findings show that the system use and review play a prominent effect: the former have a positive impact on supplier quality, delivery and sustainability performance; the latter positively affects supplier delivery, innovation and sustainability. A mature design displays a positive effect on supplier sustainability performance, while a mature implementation results to negatively affect supplier innovation performance. Finally, cost performance is not impacted by any of the four phases. Originality/value This study contributes to the open debate regarding the relationship between SPMSs and actual supplier performance improvement. In particular, the lifecycle perspective is introduced to clearly distinguish among each phase of adoption and assess their relative impact on supplier performance. Besides, the dyadic nature of the study allows to investigate different subcomponents of supplier performance jointly considering the buyer company and supplier company perspective, thus achieving a more insightful and robust information.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Performance measurement",
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniRelationshipRegulatorBuyersupplier2018b",
+  "y": 2018,
+  "d": "2018",
+  "t": "The relationship regulator: a buyer-supplier collaborative performance measurement system",
+  "a": [
+   "Maestrini, V.",
+   "Martinez, V.",
+   "Neely, A.",
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Maccarrone, P."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "38(11)",
+  "pp": "2022–2039",
+  "k": "Journal article",
+  "doi": "10.1108/IJOPM-10-2016-0595",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to propose an innovative buyer-supplier performance measurement system (PMS) (called relationship regulator – RelReg), aimed at stimulating collaboration on mutual performance. The RelReg is described all throughout the phases of its lifecycle: first, design features and visual representation of the new measurement framework are reported; second, guidelines on how to implement, use and review the system are provided, highlighting the role of the buyer and the supplier at each step. Design/methodology/approach A theory building and testing approach is applied. The RelReg developed features primarily ground on previous scientific contributions matched with empirical evidence collected through case studies, workshops and focus groups. The resulting conceptual model is then validated through a dyadic buyer-supplier case study. Findings Two conceptual frameworks are provided: the RelReg dashboard – a multidimensional PMS; and the RelReg lifecycle – set of activities to be performed by both the buyer and the supplier all along the adoption process. Moreover, empirical insights on relevant issues to be considered when adopting the RelReg are reported. Originality/value The RelReg represents an innovative and smart tool, allowing buyer-supplier dyads to collaborate on relationship performance.",
+  "src": "OpenAlex",
+  "tags": [
+   "Buyer–supplier relations",
+   "Social impact",
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoAchievingInnovationSupplier2017b",
+  "y": 2017,
+  "d": "2017",
+  "t": "Achieving innovation through supplier collaboration: The role of the purchasing interface",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Business Process Management Journal",
+  "vol": "23(6)",
+  "pp": "1270–1289",
+  "k": "Journal article",
+  "doi": "10.1108/BPMJ-10-2016-0202",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to analyze the contribution of suppliers and the purchasing department in affecting a firm’s ability to innovate. Design/methodology/approach The paper develops a theoretical framework (tested through an international survey on a sample of 524 companies) grounded on the resource-based view theory, innovation management and operations management literature. Findings The results show that innovation is positively affected by supplier collaboration, which in turn is favored by purchasing absorptive capacity. Empirical evidence also shows that purchasing status and innovation objectives enable the development of greater absorptive capacity. Research limitations/implications Because of the survey approach, the research results are limited to the data collected. Researchers are encouraged to verify propositions with complementary methodologies (e.g. case studies). Practical implications The findings confirm the relevant role of the purchasing interface in innovation as well as the positive impact of supplier collaboration, contributing both to existing literature and managerial practice in terms of successful collaborative new product development (NPD) processes. Originality/value The study integrates three different research fields (innovation, operations, and purchasing management), providing a synergistic vision on the topic and considering, as a unit of analysis, the purchasing category level (rather than the NPD project level).",
+  "src": "OpenAlex",
+  "tags": [
+   "Innovation",
+   "Purchasing strategy",
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniBigVersusSmall2017",
+  "y": 2017,
+  "d": "2017",
+  "t": "Big versus small agriculture: Is there a viable middle ground?",
+  "a": [
+   "Luzzini, D."
+  ],
+  "v": "Supply Chain Management Review",
+  "vol": "",
+  "pp": "",
+  "k": "Practitioner article",
+  "doi": "",
+  "url": "https://www.scmr.com/article/big_versus_small_agriculture_is_there_a_viable_middle_ground",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Food & agriculture",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoDesigningPublicProcurement2017b",
+  "y": 2017,
+  "d": "2017",
+  "t": "Designing a public procurement strategy: Lessons from local governments",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Ronchi, S.",
+   "Essig, M.",
+   "Amann, M.",
+   "Glas, A. H."
+  ],
+  "v": "Public Money and Management",
+  "vol": "37(4)",
+  "pp": "269–276",
+  "k": "Journal article",
+  "doi": "10.1080/09540962.2017.1295727",
+  "url": "",
+  "ab": "Public sector procurement faces competing priorities, such as cost-efficiency, legal conformity, the advancement of environmental protection and the promotion of innovation. In addition, procurement departments are moving away from being mere organizational servants to having a strategic function. This paper looks at current public procurement strategy research, revealing neglected aspects. The authors propose a new analytical framework and suggest avenues for future research.",
+  "src": "OpenAlex",
+  "tags": [
+   "Public procurement",
+   "Purchasing strategy",
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoResearchPerspectivesPublic2017c",
+  "y": 2017,
+  "d": "2017",
+  "t": "Research perspectives on public procurement: Content analysis of 14 years of publications in the journal of public procurement",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Journal of Public Procurement",
+  "vol": "17(2)",
+  "pp": "229–269",
+  "k": "Journal article",
+  "doi": "10.1108/jopp-17-02-2017-b003",
+  "url": "",
+  "ab": "The paper aims to evaluate the state of the literature on public procurement through examination of the works published in the Journal of Public Procurement from 2001 to 2014. 231 research outputs were collected and analyzed (with regard to, e.g., the background theory used, research method, and content of the papers), providing a overview of prior research topics and findings and identifying main gaps in the existing literature. This type of study is unique, as a broad literature review related to public procurement does not currently exist; therefore, the work has been designed with the intention to a) synthetize the prior research on public procurement; b) provide researchers with a structural framework in which future research on public procurement topics may be oriented; c) identify promising and active areas for future research.",
+  "src": "OpenAlex",
+  "tags": [
+   "Public procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniSupplyChainPerformance2017c",
+  "y": 2017,
+  "d": "2017",
+  "t": "Supply chain performance measurement systems: A systematic review and research agenda",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Maccarrone, P.",
+   "Caniato, F."
+  ],
+  "v": "International Journal of Production Economics",
+  "vol": "183",
+  "pp": "299–315",
+  "k": "Journal article",
+  "doi": "10.1016/j.ijpe.2016.11.005",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Research methods",
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "radaelliUsersSearchMechanisms2017b",
+  "y": 2017,
+  "d": "2017",
+  "t": "Users' search mechanisms and risks of inappropriateness in healthcare innovations: The role of literacy and trust in professional contexts",
+  "a": [
+   "Radaelli, G.",
+   "Lettieri, E.",
+   "Frattini, F.",
+   "Luzzini, D.",
+   "Boaretto, A."
+  ],
+  "v": "Technological Forecasting and Social Change",
+  "vol": "120",
+  "pp": "240–251",
+  "k": "Journal article",
+  "doi": "10.1016/j.techfore.2016.12.015",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "spinaAssessingUseExternal2016a",
+  "y": 2016,
+  "d": "2016",
+  "t": "Assessing the use of External Grand Theories in Purchasing and Supply Management research",
+  "a": [
+   "Spina, G.",
+   "Caniato, F.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "22(1)",
+  "pp": "18–30",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2015.07.001",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "longoni2016",
+  "y": 2016,
+  "d": "2016",
+  "t": "Building social capital into the disrupted green coffee supply chain: Illy’s journey to quality and sustainability",
+  "a": [
+   "Longoni, A.",
+   "Luzzini, D."
+  ],
+  "v": "In Organizing supply chain processes for sustainable innovation in the agri-food industry (Emerald Group Publishing Ltd.)",
+  "vol": "5",
+  "pp": "83–108",
+  "k": "Book chapter",
+  "doi": "10.1108/S2045-060520160000005012",
+  "url": "",
+  "ab": "Purpose This chapter explores the reconstruction of the illy’s coffee supply chain in Brazil. The original supply chain was disrupted by fluctuating prices and inefficiencies and renovated based on network relationships between the focal company and the coffee growers. It describes the peculiar experience of illycaffe (an international coffee roaster based in Italy) in building social capital into its supply chain and resulting in a more sustainable network. Methodology/approach The chapter summarizes the development of different types of social capital and applies the concepts to understand illy’s journey towards quality and supply chain sustainability. The research design is consistent with theory elaboration from a single case study. Findings The chapter applies social capital theory to food commodity supply chains. The evolution to a more reliable and sustainable supply chain for illy’s Arabica coffee in Brazil suggests that supply chain relationships are a crucial asset for the focal firm, the local communities, and society at large. Results also show that developing such relationships might lead to better product quality, supply chain sustainability, and improved supply base capabilities. Originality/value The findings of this chapter contribute to the definition of a relational governance model for global food commodity supply chains. From a research standpoint, the empirical setting allows analyses of antecedents and consequences of different social capital components in the food supply chain. In addition, the case may help executives understand how to leverage supply chain relationships and identify a path to product quality and supply chain sustainability.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Food & agriculture",
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniCinderellaPurchasingTransformation2016d",
+  "y": 2016,
+  "d": "2016",
+  "t": "Cinderella purchasing transformation: Linking purchasing status to purchasing practices and business performance",
+  "a": [
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Production Planning and Control",
+  "vol": "27(10)",
+  "pp": "787–796",
+  "k": "Journal article",
+  "doi": "10.1080/09537287.2015.1137986",
+  "url": "",
+  "ab": "This paper contributes to the on-going debate about the relevance of the purchasing function for the firm value creation. We empirically examine the role of the purchasing function in improving business performance through an international survey based on 653 responses. Results suggest that purchasing practices related to spend rationalisation have a positive impact on the overall business performance, whereas supplier development & integration and sustainable purchasing have not. Moreover, the purchasing recognition by top managers and other organisational units emerge as a powerful antecedent of all purchasing practices. Instead, pure formal authority provided by the position in the organisation chart (i.e. the report level) does not have any influence on purchasing practices adoption.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy",
+   "Sustainability"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoEvaluatingEffectivenessPublic2016a",
+  "y": 2016,
+  "d": "2016",
+  "t": "Evaluating the Effectiveness of Public Procurement Performance Management Systems in Local Governments",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Local Government Studies",
+  "vol": "42(5)",
+  "pp": "739–761",
+  "k": "Journal article",
+  "doi": "10.1080/03003930.2016.1181059",
+  "url": "",
+  "ab": "Increasing the effectiveness, efficiency, and compliance of public procurement (PP) has become an ongoing concern for governments. Public administrations at different levels are realising that – in order for PP to fulfil its mission – appropriate control and diagnostic systems must be put in place. This study aims to investigate the architecture of PP performance measurement systems (PP-PMSs) in local governments, drawing on four case studies from Italy and four from Wales. The theoretical background is provided by the emerging literature on procurement PMSs in the private context as well as the specific literature on the public sector. PP-PMSs are specifically analysed with respect to performance areas covered (i.e., cost, quality, time, compliance, innovation, sustainability). Results show that performance dimensions should be extended beyond traditional cost measures, with KPIs not limited to those imposed by national/regional regulation. Furthermore, we show that this is likely to happen where the procurement function is recognised as strategic in the public institution.",
+  "src": "OpenAlex",
+  "tags": [
+   "Public procurement",
+   "Performance measurement",
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoRisksGovernanceModes2016a",
+  "y": 2016,
+  "d": "2016",
+  "t": "Risks and governance modes in offshoring decisions: Linking supply chain management and international business perspectives",
+  "a": [
+   "Patrucco, A. S.",
+   "Scalera, V. G.",
+   "Luzzini, D."
+  ],
+  "v": "Supply Chain Forum",
+  "vol": "17(3)",
+  "pp": "170–182",
+  "k": "Journal article",
+  "doi": "10.1080/16258312.2016.1219616",
+  "url": "",
+  "ab": "Governing offshoring has become a major challenge for firms that run operations outside the home country. International business (IB) and supply chain management (SCM) literature offer different insights on the topic, focusing especially on possible governance modes and the drivers of this choice, with different perspectives. Grounding the discussion at the intersection between these two research fields, the present study first proposes a taxonomy of offshoring risks (i.e. tasks, operational, reputational and institutional), with corresponding risk factors in each category; then, a set of research propositions are formulated, in order to link these categories to the governance-mode choice. Furthermore, we argue that the risk–governance link is moderated by two relevant factors, that is, the offshoring firm size and the strategic relevance of the outsourced activity. As a result, we elaborate on the interrelation between IB and SCM theories, emphasising the impact of risk management and contingent factors in offshoring governance modes configurations.",
+  "src": "OpenAlex",
+  "tags": [
+   "Offshoring",
+   "Social impact"
+  ],
+  "ed": false
+ },
+ {
+  "key": "bernardinSCMStrategiqueRelations2016",
+  "y": 2016,
+  "d": "2016",
+  "t": "SCM stratégique, relations acheteur-fournisseur et performance : vers une théorie du SCM",
+  "a": [
+   "Bernardin, E.",
+   "Luzzini, D.",
+   "Miemczyk, J."
+  ],
+  "v": "In Les grands auteurs en logistique et supply chain management (EMS Éditions)",
+  "vol": "",
+  "pp": "183–196",
+  "k": "Book chapter",
+  "doi": "10.3917/ems.lavas.2016.01.0183",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Buyer–supplier relations",
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "maestriniActionResearchCycle2016b",
+  "y": 2016,
+  "d": "2016",
+  "t": "The action research cycle reloaded: Conducting action research across buyer-supplier relationships",
+  "a": [
+   "Maestrini, V.",
+   "Luzzini, D.",
+   "Shani, A. B.",
+   "Canterino, F."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "22(4)",
+  "pp": "289–298",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2016.06.002",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "guerciTranslatingStakeholderPressures2016a",
+  "y": 2016,
+  "d": "2016",
+  "t": "Translating stakeholder pressures into environmental performance – the mediating role of green HRM practices",
+  "a": [
+   "Guerci, M.",
+   "Longoni, A.",
+   "Luzzini, D."
+  ],
+  "v": "International Journal of Human Resource Management",
+  "vol": "27(2)",
+  "pp": "262–289",
+  "k": "Journal article",
+  "doi": "10.1080/09585192.2015.1065431",
+  "url": "",
+  "ab": "This paper contributes to extant research on green human resource management (HRM) relying on the instrumental value of stakeholder theory, which implies that stakeholders impact on company decisions and their development of organizational resources and performance. Following that theory, the study conceives green HRM practices as a set of management processes that companies implement for responding to stakeholder pressures on environmental issues. Accordingly with those premises, we empirically test the distinct role that different green HRM practices (i.e. green hiring, green training and involvement, and green performance management and compensation) play in mediating the relationship between pressures on environmental issues from two specific external stakeholders (i.e. customers and regulatory stakeholders) and environmental performance. Our findings, based on a multi-respondent survey in which the respondents were Human Resource Managers and Supply Chain Managers operating in Italy, confirm the hypothesized mediation model. Our results (as well as their implications) are discussed in light of the recent calls to broaden the scope of HRM research, considering the embeddedness of the company in a socio-political context and exploring the role that actors and factors outside the company play in shaping its green HRM practices.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "knoppenComprehensiveAssessmentMeasurement2015b",
+  "y": 2015,
+  "d": "2015",
+  "t": "A comprehensive assessment of measurement equivalence in operations management",
+  "a": [
+   "Knoppen, D.",
+   "Ateş, M. A.",
+   "Brandon-Jones, A.",
+   "Luzzini, D.",
+   "Van Raaij, E.",
+   "Wynstra, F."
+  ],
+  "v": "International Journal of Production Research",
+  "vol": "53(1)",
+  "pp": "166–182",
+  "k": "Journal article",
+  "doi": "10.1080/00207543.2014.944629",
+  "url": "",
+  "ab": "This paper provides a comprehensive framework for treating equivalence both prior to data collection and during subsequent analyses, and assesses the extent to which equivalence is considered in survey research in six leading empirical Operations Management (OM) journals (Decision Sciences, International Journal of Operations & Production Management, International Journal of Production Research, Journal of Operations Management, Management Science and Production and Operations Management). Measurement equivalence of latent variables in survey data is an important condition that should be met in order to meaningfully pool and/or compare data stemming from apparently heterogeneous sub-groups. We assess 465 survey articles from a six-year period from 2006 to 2011 and document these articles in relation to the four main stages of our comprehensive framework: identifying sources of heterogeneity; maximising equivalence prior to data collection; testing measurement equivalence after data collection; and dealing with partial and non-equivalence. We conclude that pooling of data from heterogeneous sub-groups is common practice in OM, but that awareness and testing of equivalence remains limited. Given these findings, we further elaborate the best practices detected in those few OM studies that do address equivalence in some way. We conclude that to improve the quality of OM survey research, authors, editors and reviewers should pay greater attention to equivalence, and we provide a pragmatic checklist of measurement equivalence issues across the four stages.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniSustainabilityCommitmentPerformance2015c",
+  "y": 2015,
+  "d": "2015",
+  "t": "From sustainability commitment to performance: The role of intra- and inter-firm collaborative capabilities in the upstream supply chain",
+  "a": [
+   "Luzzini, D.",
+   "Brandon-Jones, E.",
+   "Brandon-Jones, A.",
+   "Spina, G."
+  ],
+  "v": "International Journal of Production Economics",
+  "vol": "165",
+  "pp": "51–63",
+  "k": "Journal article",
+  "doi": "10.1016/j.ijpe.2015.03.004",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Sustainability",
+   "Social impact",
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ },
+ {
+  "key": "patruccoImprovingNewProduct2015",
+  "y": 2015,
+  "d": "2015",
+  "t": "Improving new product development performance: The mediating effect of supplier involvement and the role of the purchasing function",
+  "a": [
+   "Patrucco, A. S.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Scholars' Press",
+  "vol": "",
+  "pp": "",
+  "k": "Book",
+  "doi": "",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Innovation",
+   "Buyer–supplier relations",
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "caniatoLocationDriversGovernance2015a",
+  "y": 2015,
+  "d": "2015",
+  "t": "Location drivers, governance model and performance in service offshoring",
+  "a": [
+   "Caniato, F.",
+   "Elia, S.",
+   "Luzzini, D.",
+   "Piscitello, L.",
+   "Ronchi, S."
+  ],
+  "v": "International Journal of Production Economics",
+  "vol": "163",
+  "pp": "189–199",
+  "k": "Journal article",
+  "doi": "10.1016/j.ijpe.2014.09.011",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Offshoring"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniPathInnovationPurchasing2015c",
+  "y": 2015,
+  "d": "2015",
+  "t": "The path of innovation: Purchasing and supplier involvement into new product development",
+  "a": [
+   "Luzzini, D.",
+   "Amann, M.",
+   "Caniato, F.",
+   "Essig, M.",
+   "Ronchi, S."
+  ],
+  "v": "Industrial Marketing Management",
+  "vol": "47",
+  "pp": "109–120",
+  "k": "Journal article",
+  "doi": "10.1016/j.indmarman.2015.02.034",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Innovation",
+   "Buyer–supplier relations",
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "caniatoTotalCostOwnership2015a",
+  "y": 2015,
+  "d": "2015",
+  "t": "Total cost of ownership along the supply chain: A model applied to the tinting industry",
+  "a": [
+   "Caniato, F.",
+   "Ronchi, S.",
+   "Luzzini, D.",
+   "Brivio, O."
+  ],
+  "v": "Production Planning and Control",
+  "vol": "26(6)",
+  "pp": "427–437",
+  "k": "Journal article",
+  "doi": "10.1080/09537287.2014.918285",
+  "url": "",
+  "ab": "Total Cost of Ownership (TCO) is a consolidated purchasing tool applied across different industries. However, in some cases, existing models are not satisfactory. The paper analyses the tinting industry, where manufacturers of colourant dispensing machines sell products and related services to paint producers, who install them in retail stores to sell the colour paints to the final consumers. Authors develop a TCO model integrating those existing in literature and including the following specifications: (i) all relevant costs along the product life cycle are considered; (ii) both goods and service-related costs are considered; (iii) both explicit and hidden costs are considered; (iv) the model adapts to the perspectives of various actors in the supply chain. The TCO model is tested with real data and provides useful insights on real costs sustained by each actor.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniDesigningVendorEvaluation2014d",
+  "y": 2014,
+  "d": "2014",
+  "t": "Designing vendor evaluation systems: An empirical analysis",
+  "a": [
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Spina, G."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "20(2)",
+  "pp": "113–129",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2014.03.002",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Performance measurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "eliaGovernanceChoiceGlobal2014a",
+  "y": 2014,
+  "d": "2014",
+  "t": "Governance Choice in Global Sourcing of Services: The Impact on Service Quality and Cost Saving Performance",
+  "a": [
+   "Elia, S.",
+   "Caniato, F.",
+   "Luzzini, D.",
+   "Piscitello, L."
+  ],
+  "v": "Global Strategy Journal",
+  "vol": "4(3)",
+  "pp": "181–199",
+  "k": "Journal article",
+  "doi": "10.1002/gsj.1078",
+  "url": "",
+  "ab": "This article deals with the performance implications of the governance mode (captive offshoring versus outsourcing) selected when companies offshore service activities, which is still quite controversial in the literature. After accounting for endogeneity issues, we investigate the relationship between governance and performances (both in terms of cost saving and service quality) on a sample of 132 initiatives from the 2009 Offshoring Research Network survey. Our results show that the alignment of the governance choice with an extended transaction cost economics approach leads to better performances. However, the impact of a possible misalignment: (1) is asymmetric, as only the failure to undertake a captive mode negatively affects performance; and (2) negatively affects service quality more than cost saving.",
+  "src": "OpenAlex",
+  "tags": [
+   "Offshoring"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniOrganizingITPurchases2014a",
+  "y": 2014,
+  "d": "2014",
+  "t": "Organizing IT purchases: Evidence from a global study",
+  "a": [
+   "Luzzini, D.",
+   "Longoni, A.",
+   "Moretto, A.",
+   "Caniato, F.",
+   "Brun, A."
+  ],
+  "v": "Journal of Purchasing and Supply Management",
+  "vol": "20(3)",
+  "pp": "143–155",
+  "k": "Journal article",
+  "doi": "10.1016/j.pursup.2013.12.001",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "caniatoPurchasingPerformanceManagement2014a",
+  "y": 2014,
+  "d": "2014",
+  "t": "Purchasing performance management systems: An empirical investigation",
+  "a": [
+   "Caniato, F.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Production Planning and Control",
+  "vol": "25(7)",
+  "pp": "616–635",
+  "k": "Journal article",
+  "doi": "10.1080/09537287.2012.743686",
+  "url": "",
+  "ab": "This article aims at further developing the purchasing performance management systems (PPMSs) body of knowledge, assuming the wider perspective of the adoption process rather than key performance indicators (KPIs) only. In particular, the research questions are focused on understanding what are the most adopted indicators, what are the key elements characterising the implementation process and what are the differences among different organisational levels and different purchasing categories. The literature provides a framework for classifying purchasing KPIs, identifying the implementation process and the PPMS architecture, thus supporting the empirical research protocol. Nine case studies of large multinationals belonging to different industries are conducted. Empirical evidence shows that companies are still adopting mainly an external perspective, by focusing on performance measurement efforts on suppliers. Widely adopted indicators mainly measure cost, time and quality. However, the purchasing department has acquired an important role within the organisation and new performance indicators have been created; flexibility, innovation and sustainability are becoming increasingly important.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy",
+   "Performance measurement",
+   "Innovation"
+  ],
+  "ed": false
+ },
+ {
+  "key": "spinaPresentFutureTrends2013c",
+  "y": 2013,
+  "d": "2013",
+  "t": "Past, present and future trends of purchasing and supply management: An extensive literature review",
+  "a": [
+   "Spina, G.",
+   "Caniato, F.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Industrial Marketing Management",
+  "vol": "42(8)",
+  "pp": "1202–1212",
+  "k": "Journal article",
+  "doi": "10.1016/j.indmarman.2013.04.001",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Research methods",
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniTransactionCostsApproach2012a",
+  "y": 2012,
+  "d": "2012",
+  "t": "A transaction costs approach to purchasing portfolio management",
+  "a": [
+   "Luzzini, D.",
+   "Caniato, F.",
+   "Ronchi, S.",
+   "Spina, G."
+  ],
+  "v": "International Journal of Operations and Production Management",
+  "vol": "32(9)",
+  "pp": "1015–1042",
+  "k": "Journal article",
+  "doi": "10.1108/01443571211265684",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to propose a theoretically sound and empirically tested classification system composed of purchasing strategic categories as a basis for purchasing portfolio models. Design/methodology/approach An international, cross‐industry survey has been designed to assess the characteristics and corresponding strategies of the purchasing categories. Findings The paper operationalises the constructs derived from previous scientific contributions related to purchasing portfolio management and transaction cost economics (TCE) to empirically test the purchasing portfolio. In total, four different types of strategic categories have been identified, and distinctive competitive priorities have been found. Research limitations/implications Managers might be able to identify different types of purchasing strategic categories, whose characteristics drive specific purchasing strategies. Longitudinal data and more extensive tests of the characteristics of each category might contribute to improving the proposed research framework. Originality/value The research overcomes some of the classical limits of purchasing portfolio models, including the absence of a theoretical and empirical basis. In particular, TCE is used to support and expand traditional purchasing portfolio approaches, and a broad empirical base is used to test such an approach.",
+  "src": "OpenAlex",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniOrganizingPurchasingDepartment2011a",
+  "y": 2011,
+  "d": "2011",
+  "t": "Organizing the purchasing department for innovation",
+  "a": [
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Operations Management Research",
+  "vol": "4(1–2)",
+  "pp": "14–27",
+  "k": "Journal article",
+  "doi": "10.1007/s12063-010-0042-2",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Innovation",
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "luzziniPurchasingManagementLuxury2010a",
+  "y": 2010,
+  "d": "2010",
+  "t": "Purchasing management in the luxury industry: Organization and practices",
+  "a": [
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Operations Management Research",
+  "vol": "3(1–2)",
+  "pp": "7–21",
+  "k": "Journal article",
+  "doi": "10.1007/s12063-009-0024-4",
+  "url": "",
+  "ab": "",
+  "src": "",
+  "tags": [
+   "Purchasing strategy"
+  ],
+  "ed": false
+ },
+ {
+  "key": "caniatoFullIntegrationEProcurement2010a",
+  "y": 2010,
+  "d": "2010",
+  "t": "Towards full integration: EProcurement implementation stages",
+  "a": [
+   "Caniato, F.",
+   "Golini, R.",
+   "Luzzini, D.",
+   "Ronchi, S."
+  ],
+  "v": "Benchmarking",
+  "vol": "17(4)",
+  "pp": "491–515",
+  "k": "Journal article",
+  "doi": "10.1108/14635771011060567",
+  "url": "",
+  "ab": "Purpose The purpose of this paper is to identify different maturity stages of eProcurement adoption. eProcurement (i.e. electronic purchase of indirect goods), is a growing reality and it is spreading among companies. However, even inside a growing trend, no and low adopters can still be found, and those already using eProcurement go through many intermediate levels. According to the literature, there can be many factors influencing eProcurement adoption but clear approaches and maturity stages are still not defined. Design/methodology/approach This paper proposes a general framework in which eProcurement maturity is measured by three components: level of adoption, technology and organizational objectives. The framework was applied to 13 case studies of information technology purchases of companies in different sectors; thus, indentifying different approaches that have been clustered in three maturity stages. Findings First of all, a quite strong relationship is found between eProcurement adoption and technology in place. As far as organizational objectives are concerned, some interesting linkages are found with both the adoption and technological functionalities. These patterns of adoption are grouped into three clusters, named basic, intermediate and advanced. Practical implications The results of this paper can be useful for practitioners trying to position a company into a maturity model and verify the coherence of the adoption with the technological and organizational choices. Originality/value The originality of this paper lies in a new framework of analysis of the eProcurement strategies that allows the identification of different maturity stages.",
+  "src": "OpenAlex",
+  "tags": [
+   "Digital procurement"
+  ],
+  "ed": false
+ },
+ {
+  "key": "ronchiSupplyChainCoordination2007",
+  "y": 2007,
+  "d": "2007",
+  "t": "Supply chain coordination: The problem of risk and benefit sharing",
+  "a": [
+   "Ronchi, S.",
+   "Luzzini, D.",
+   "Spina, G."
+  ],
+  "v": "Supply Chain Forum: An International Journal",
+  "vol": "8(2)",
+  "pp": "54–65",
+  "k": "Journal article",
+  "doi": "10.1080/16258312.2007.11517182",
+  "url": "",
+  "ab": "Every firm has to manage its strategic relationships to reach a distinctive competitive advantage. In practice, collaboration is much less adopted than predicated. Especially when a leading actor is missing and mutual trust is lacking, it all becomes a matter of bargaining power. Thus, full collaboration and integration is often far from realized, the two largest barriers being the lack of availability of a supply chain performance measurement system (PMS) and not effectively sharing the risks and benefits derived from collaboration. Within this framework, the contract design plays a relevant role because contracts are primarily seen as a means of coordination. The aim of this article is twofold: to classify risk- and benefit-sharing tools initiating from contract typologies and to identify the drivers in order to choose the most appropriate form of coordination. In order to develop their theory, the authors reviewed evidence that derived from multiple in-depth case studies from different industries. Relevant data and information were collected through direct interviews with operations and supply chain managers and through secondary sources.",
+  "src": "OpenAlex",
+  "tags": [
+   "Buyer–supplier relations"
+  ],
+  "ed": false
+ }
+]

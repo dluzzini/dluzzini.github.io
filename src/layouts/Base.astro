@@ -1,0 +1,71 @@
+---
+import '@fontsource/lexend/400.css';
+import '@fontsource/lexend/600.css';
+import '@fontsource/barlow-condensed/600.css';
+import '@fontsource/barlow-condensed/800.css';
+import '@fontsource/ibm-plex-mono/400.css';
+import '../styles/global.css';
+import { SITE, NAV } from '../config';
+
+interface Props { title?: string; description?: string; home?: boolean }
+const { title, description = SITE.description, home = false } = Astro.props;
+const fullTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} · Supply chains, sustainability, post-growth`;
+const path = Astro.url.pathname;
+const canonical = new URL(path, SITE.url).href;
+const person = {
+  '@context': 'https://schema.org', '@type': 'Person', name: SITE.name, url: SITE.url,
+  jobTitle: 'Professor', worksFor: { '@type': 'Organization', name: 'EADA Business School' },
+  sameAs: [SITE.orcid, SITE.scholar, SITE.linkedin],
+};
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="theme-color" content="#070b0a" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(person)} />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <canvas id="sky" aria-hidden="true"></canvas>
+  <div class="shell">
+    <header class="site">
+      <div class="wrap">
+        <a class="brand" href="/">Davide Luzzini</a>
+        <nav class="navlinks" aria-label="Main">
+          {NAV.map(n => <a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a>)}
+          <a class="cv" href={SITE.cv}>CV</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <slot />
+    </main>
+    <footer class="site">
+      <div class="wrap">
+        <span>Davide Luzzini · EADA Business School · Barcelona</span>
+        <nav aria-label="Footer">
+          <a href={SITE.orcid} rel="noopener">ORCID</a>
+          <a href={SITE.scholar} rel="noopener">Google Scholar</a>
+          <a href={SITE.linkedin} rel="noopener">LinkedIn</a>
+          <a href={SITE.cv}>Full CV</a>
+        </nav>
+      </div>
+    </footer>
+  </div>
+  <script>
+    import { startSky } from '../scripts/sky';
+    startSky();
+  </script>
+</body>
+</html>

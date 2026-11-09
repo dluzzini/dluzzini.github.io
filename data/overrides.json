@@ -1,0 +1,65 @@
+{
+ "vinayavekhinDriversDigitalTraceability2026": {
+  "ab": "The global climate crisis is pushing firms toward sustainable supply chain practices, with digital technology offering a vital pathway to track greenhouse gas (GHG) emissions. This research investigates the factors influencing the adoption of digital traceability systems for managing these emissions, focusing on implementation scope and supply chain complexity (SCC). Drawing on Institutional Theory and Transaction Cost Economics, we conducted a choice‐based conjoint experiment with managers in manufacturing sectors to capture the trade‐offs in their decision‐making process. Our results show that firms are more likely to consider technology solutions when (a) those solutions cover Scope 1, 2, and 3 GHG emissions, and (b) there is greater SCC due to ‘detail‐numerousness’ (number of elements in a system) and ‘detail‐variety’ (heterogeneity of these elements). However, dynamic complexity (changing nature of elements) has an ambiguous impact on technology adoption. “Detail‐numerousness” (e.g., number of products produced) is the most critical attribute for internal operations, while “detail‐variety” (e.g., geographical dispersion and supplier heterogeneity) has the greatest impact on upstream supply chains. This research extends the supply chain technology adoption literature by providing a nuanced empirical understanding of how distinct dimensions of SCC at both internal and upstream levels shape the adoption of digital traceability.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Transparency",
+   "Digital procurement",
+   "Complexity"
+  ]
+ },
+ "rodriguezAgroecologyRegenerativeSupply2026": {
+  "ab": "This study bridges agroecology and regenerative supply chain management by translating agroecology's practice-based evidence into supply chain design terms for agri-food systems. Drawing on an abductive systematic literature review of 72 peer-reviewed articles, we synthesize four agroecology-informed supply chain practice sets: agroecological production, knowledge transfer and co-creation, embedded and solidarity-based market relationships, and organizing forms for value chain coordination. These practices were conceptualized into four agroecological supply chain configurations—bridged, scaffolded, civic, and territorial—that differ in who coordinates exchange, how demand is structured, and where capabilities and governance reside. We further map the four practice sets to core regenerative supply chain management principles and highlight distributive justice as a cross-cutting condition for durable regenerative outcomes. The study elaborates a developmental logic, which indicates that producer-led, territorially embedded chains supported by local innovation networks and deep producer-consumer integration are positively associated with systemic regeneration.",
+  "src": "OpenAlex",
+  "tags": [
+   "Sustainability",
+   "Food & agriculture",
+   "Systemic change"
+  ]
+ },
+ "fisherJustTransitionMaking2024": {
+  "ab": "Supply chains often match the supply of labour to uncertain demand by using precarious workers. This increases flexibility and lowers costs for the supply chain by shifting risk to the workers and costs to society. Supply chains are maximizing profits, often literally, on the backs of their workers by creating serious negative externalities for society. We address this issue using a powerpower perspective because powerpower is asymmetrically oriented against workers in many supply chain contexts. This allows us to identify examples of how to reverse this trend and shift powerpower back to workers. The goal is to get to where stakeholders understand the costs and limited benefits of precarity, where we can separate the notion of flexibility from low costs, and where through a combination of incentives, policy, social norms of ethical behaviour, and consumer action, we can get to a better place than where we are now.",
+  "src": "OpenAlex"
+ },
+ "ronchiSupplyChainCoordination2007": {
+  "ab": "Every firm has to manage its strategic relationships to reach a distinctive competitive advantage. In practice, collaboration is much less adopted than predicated. Especially when a leading actor is missing and mutual trust is lacking, it all becomes a matter of bargaining power. Thus, full collaboration and integration is often far from realized, the two largest barriers being the lack of availability of a supply chain performance measurement system (PMS) and not effectively sharing the risks and benefits derived from collaboration. Within this framework, the contract design plays a relevant role because contracts are primarily seen as a means of coordination. The aim of this article is twofold: to classify risk- and benefit-sharing tools initiating from contract typologies and to identify the drivers in order to choose the most appropriate form of coordination. In order to develop their theory, the authors reviewed evidence that derived from multiple in-depth case studies from different industries. Relevant data and information were collected through direct interviews with operations and supply chain managers and through secondary sources.",
+  "src": "OpenAlex",
+  "tags": [
+   "Buyer–supplier relations"
+  ]
+ },
+ "caniatoProcurementManagementStrategy2026": {
+  "tags": [
+   "Purchasing strategy",
+   "Digital procurement"
+  ]
+ },
+ "luzziniBigVersusSmall2017": {
+  "tags": [
+   "Food & agriculture",
+   "Sustainability"
+  ]
+ },
+ "bernardinSCMStrategiqueRelations2016": {
+  "tags": [
+   "Buyer–supplier relations",
+   "Purchasing strategy"
+  ]
+ },
+ "shevchenkoFootprintPerspectiveSustainable2026": {
+  "editorial": true
+ },
+ "luzziniRethinkingSupplyChain2024b": {
+  "editorial": true
+ },
+ "luzziniDrivingSystemicChange2024": {
+  "editorial": true
+ },
+ "longoniSocialEnterprisesSupply2024": {
+  "editorial": true
+ },
+ "akinatesEditorialJudgeJury2022": {
+  "editorial": true
+ }
+}

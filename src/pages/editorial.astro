@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import Explorer from '../components/Explorer.astro';
+import { publications, pubItem } from '../lib/items';
+import { SITE } from '../config';
+const essays = publications.filter(p => p.ed).map(pubItem);
+---
+<Base title="Editorial" description="Co-editor-in-chief of the Journal of Supply Chain Management, associate editor of the Journal of Purchasing and Supply Management, and work with authors and reviewers.">
+  <section class="view">
+    <div class="page-head">
+      <span class="mono">Editorial</span>
+      <h1>Editorial work</h1>
+      <p class="lede">Since 2025 I'm one of the three co-editors-in-chief of the <a href={SITE.jscm} rel="noopener">Journal of Supply Chain Management</a>, with Andreas Wieland and Hannah Stolze. JSCM publishes research that builds theory about supply chains, so the first question we ask about every paper is simple: what do we learn that we didn't know before?</p>
+    </div>
+    <div class="block">
+      <header><span class="mono">Roles</span><h2>Journals and community</h2></header>
+      <ul class="plain">
+        <li><span>2025–now</span><span>Journal of Supply Chain Management, co-editor-in-chief</span></li>
+        <li><span>2016–now</span><span>Journal of Purchasing and Supply Management, associate editor</span></li>
+        <li><span>2013–2024</span><span>Operations Management Research, area editor</span></li>
+        <li><span>2013–2025</span><span>IPSERA executive committee; conference chair 2023; doctoral workshop organiser</span></li>
+      </ul>
+    </div>
+    <div class="block">
+      <header><span class="mono">Authors and reviewers</span><h2>Helping papers get better</h2></header>
+      <div class="prose">
+        <p>For me a big part of editing happens before a paper is submitted. With Andreas and Hannah we run paper development workshops, online and at conferences, and a development programme for new JSCM reviewers. We also use special issues to open the journal to new topics and new ways of doing research, for example novel approaches to qualitative research.</p>
+      </div>
+    </div>
+    <div class="block">
+      <header><span class="mono">Editorials and essays on the field</span><h2>Writing for the community</h2></header>
+      <Explorer items={essays} initial={10} emptyAbstract="No abstract available yet." />
+    </div>
+  </section>
+</Base>

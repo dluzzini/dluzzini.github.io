@@ -1,0 +1,103 @@
+---
+// Searchable, filterable, expandable list. All items are rendered in the HTML (readable without JavaScript
+// and by search engines); the script below only filters and hides.
+import type { Item } from '../lib/items';
+interface Props { items: Item[]; controls?: boolean; initial?: number; noun?: string; placeholder?: string; emptyAbstract?: string }
+const { items, controls = false, initial = 6, noun = 'items', placeholder = 'Search', emptyAbstract } = Astro.props;
+const shown = controls ? items : items.slice(0, initial);
+const years = items.map(i => i.y), minY = Math.min(...years), maxY = Math.max(...years);
+const kinds = [...new Set(items.map(i => i.kind))];
+const tagCount: Record<string, number> = {};
+items.forEach(i => i.tags.forEach(t => (tagCount[t] = (tagCount[t] || 0) + 1)));
+const tagList = Object.keys(tagCount).sort((a, b) => tagCount[b] - tagCount[a] || a.localeCompare(b));
+const uid = 'x' + Math.abs([...items.map(i => i.id).join('')].reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 7)).toString(36);
+const yearOpts = [] as number[]; for (let y = maxY; y >= minY; y--) yearOpts.push(y);
+---
+<div class="explorer" data-explorer data-initial={initial} data-total={items.length} data-noun={noun} data-min={minY} data-max={maxY} data-controls={controls ? '1' : '0'}>
+  {controls && (
+    <div class="controls" hidden>
+      <input class="search" id={`${uid}-q`} type="search" placeholder={placeholder} aria-label={placeholder} data-q />
+      <div class="row">
+        <label for={`${uid}-from`}>From <select id={`${uid}-from`} data-from>{yearOpts.map(y => <option value={y} selected={y === minY}>{y}</option>)}</select></label>
+        <label for={`${uid}-to`}>to <select id={`${uid}-to`} data-to>{yearOpts.map(y => <option value={y} selected={y === maxY}>{y}</option>)}</select></label>
+        {kinds.length > 1 && <label for={`${uid}-kind`}>Type <select id={`${uid}-kind`} data-kind><option value="all">All</option>{kinds.map(k => <option>{k}</option>)}</select></label>}
+        <button type="button" class="textbtn" data-clear>Clear filters</button>
+      </div>
+      <div class="chips" role="group" aria-label="Topics">
+        {tagList.map(t => <button type="button" class="chip" data-tag={t} aria-pressed="false">{t}<span class="n">{tagCount[t]}</span></button>)}
+      </div>
+    </div>
+  )}
+  {controls && <p class="count" aria-live="polite" data-count hidden></p>}
+  <ul class="list">
+    {shown.map(it => (
+      <li class="item" data-y={it.y} data-kind={it.kind} data-tags={it.tags.join('|')} data-text={it.text}>
+        <button type="button" class="item-head" aria-expanded="false" aria-controls={`${uid}-${it.id}`}>
+          <span class="yr">{it.when}</span><span class="ttl">{it.title}</span><span class="plus" aria-hidden="true">+</span>
+          <span class="by" set:html={it.meta} />
+        </button>
+        <div class="detail" id={`${uid}-${it.id}`} hidden>
+          {it.abs ? <p class="abs">{it.abs}</p> : emptyAbstract && <p class="none">{emptyAbstract}</p>}
+          <div class="foot">
+            {it.tags.length > 0 && <span class="chips">{it.tags.map(t => <span class="chip">{t}</span>)}</span>}
+            {it.link && <a href={it.link.href} rel="noopener">{it.link.label}</a>}
+            {it.src && <span class="src">Abstract via {it.src}</span>}
+          </div>
+        </div>
+      </li>
+    ))}
+    <li class="empty" data-empty hidden>Nothing matches. Try fewer words or clear the filters.</li>
+  </ul>
+  {controls && <button type="button" class="showall" data-all hidden></button>}
+</div>
+<script>
+  const norm = (s: string) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[‐-―]/g, '-');
+  document.querySelectorAll<HTMLElement>('[data-explorer]').forEach(root => {
+    const items = [...root.querySelectorAll<HTMLElement>('li.item')];
+    // expand / collapse
+    root.addEventListener('click', e => {
+      const head = (e.target as HTMLElement).closest('.item-head');
+      if (head) {
+        const open = head.getAttribute('aria-expanded') === 'true';
+        head.setAttribute('aria-expanded', open ? 'false' : 'true');
+        document.getElementById(head.getAttribute('aria-controls')!)!.hidden = open;
+      }
+    });
+    if (root.dataset.controls !== '1') return;
+    const initial = +root.dataset.initial!, total = +root.dataset.total!, noun = root.dataset.noun!, minY = +root.dataset.min!, maxY = +root.dataset.max!;
+    const $ = <T extends HTMLElement>(s: string) => root.querySelector<T>(s);
+    const q = $<HTMLInputElement>('[data-q]')!, from = $<HTMLSelectElement>('[data-from]')!, to = $<HTMLSelectElement>('[data-to]')!, kind = $<HTMLSelectElement>('[data-kind]');
+    const count = $<HTMLElement>('[data-count]')!, all = $<HTMLButtonElement>('[data-all]')!, empty = $<HTMLElement>('[data-empty]')!;
+    const chips = [...root.querySelectorAll<HTMLButtonElement>('.controls .chip[data-tag]')];
+    const st = { q: '', from: minY, to: maxY, kind: 'all', tags: new Set<string>(), all: false };
+    $<HTMLElement>('.controls')!.hidden = false; count.hidden = false;
+    function render() {
+      const active = !!st.q || st.tags.size > 0 || st.kind !== 'all' || st.from > minY || st.to < maxY;
+      let n = 0, shown = 0;
+      for (const li of items) {
+        const y = +li.dataset.y!, tags = li.dataset.tags ? li.dataset.tags.split('|') : [];
+        const ok = y >= st.from && y <= st.to && (st.kind === 'all' || li.dataset.kind === st.kind)
+          && (!st.tags.size || tags.some(t => st.tags.has(t))) && (!st.q || norm(li.dataset.text!).includes(norm(st.q)));
+        if (ok) n++;
+        const vis = ok && (active || st.all || n <= initial);
+        li.hidden = !vis; if (vis) shown++;
+      }
+      empty.hidden = n > 0;
+      count.textContent = active ? `${n} of ${total} match` : st.all ? `All ${total}, newest first` : `Latest ${Math.min(initial, total)} of ${total}`;
+      all.hidden = active || total <= initial;
+      all.textContent = st.all ? `Show latest ${initial} only` : `Show all ${total} ${noun}`;
+      chips.forEach(c => c.setAttribute('aria-pressed', st.tags.has(c.dataset.tag!) ? 'true' : 'false'));
+    }
+    q.addEventListener('input', () => { st.q = q.value.trim(); render(); });
+    from.addEventListener('change', () => { st.from = +from.value; render(); });
+    to.addEventListener('change', () => { st.to = +to.value; render(); });
+    kind?.addEventListener('change', () => { st.kind = kind.value; render(); });
+    chips.forEach(c => c.addEventListener('click', () => { const t = c.dataset.tag!; st.tags.has(t) ? st.tags.delete(t) : st.tags.add(t); render(); }));
+    all.addEventListener('click', () => { st.all = !st.all; render(); });
+    $<HTMLButtonElement>('[data-clear]')!.addEventListener('click', () => {
+      st.q = ''; st.from = minY; st.to = maxY; st.kind = 'all'; st.tags.clear();
+      q.value = ''; from.value = String(minY); to.value = String(maxY); if (kind) kind.value = 'all'; render();
+    });
+    render();
+  });
+</script>

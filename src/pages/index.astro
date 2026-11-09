@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import Explorer from '../components/Explorer.astro';
+import Topics from '../components/Topics.astro';
+import { publications, pubItem, talkList, talkItem } from '../lib/items';
+---
+<Base home>
+  <section class="view">
+    <div class="hero" id="hero">
+      <span class="phase" id="phase" aria-hidden="true">Linear supply chain</span>
+      <div class="hero-text">
+        <span class="mono">Supply chains · sustainability · post-growth</span>
+        <h1>I study how supply chains can work <em>within the limits</em> of people and planet.</h1>
+        <p class="sub">I'm a professor at EADA Business School in Barcelona and co-editor-in-chief of the Journal of Supply Chain Management.</p>
+      </div>
+    </div>
+
+    <div class="block">
+      <header><span class="mono">What I work on</span></header>
+      <Topics />
+    </div>
+
+    <div class="block">
+      <header><span class="mono">Latest publications · click a title for the abstract</span><h2>Recent work</h2></header>
+      <Explorer items={publications.map(pubItem)} initial={3} emptyAbstract="No abstract available yet." />
+      <a class="more-link" href="/research/">All publications, search and filters →</a>
+    </div>
+
+    <div class="block">
+      <header><span class="mono">For companies and events</span><h2>Recent talks</h2></header>
+      <Explorer items={talkList.map(talkItem)} initial={2} />
+      <a class="more-link" href="/talks/">Talks and collaboration →</a>
+    </div>
+  </section>
+</Base>

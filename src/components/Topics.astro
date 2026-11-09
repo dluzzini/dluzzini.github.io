@@ -1,0 +1,35 @@
+---
+// Research topics, from src/data/topics.json. Papers are looked up by DOI in publications.json.
+import topics from '../data/topics.json';
+import { publications } from '../lib/items';
+
+const byDoi = new Map(publications.filter(p => p.doi).map(p => [p.doi.toLowerCase(), p]));
+const list = topics.map(t => ({
+  ...t,
+  papers: t.papers.map(d => byDoi.get(d.toLowerCase())).filter(Boolean),
+}));
+const missing = topics.flatMap(t => t.papers.filter(d => !byDoi.has(d.toLowerCase())));
+if (missing.length) throw new Error('topics.json: DOI not in publications.json: ' + missing.join(', '));
+---
+<div class="topics">
+  {list.map(t => (
+    <article class="topic">
+      <h3>{t.name}</h3>
+      <div class="topic-body">
+        <p>{t.short}</p>
+        <details>
+          <summary>Learn more</summary>
+          <div class="topic-more">
+            <p>{t.more}</p>
+            <span class="mono">Selected papers</span>
+            <ul>
+              {t.papers.map(p => (
+                <li><a href={`https://doi.org/${p!.doi}`}>{p!.t}</a> <span class="pv">{p!.v}, {p!.y}</span></li>
+              ))}
+            </ul>
+          </div>
+        </details>
+      </div>
+    </article>
+  ))}
+</div>

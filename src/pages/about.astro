@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../config';
+---
+<Base title="About" description="Davide Luzzini is a professor at EADA Business School in Barcelona. Before that he was at Politecnico di Milano, Audencia and the Zaragoza Logistics Center.">
+  <section class="view">
+    <div class="page-head">
+      <span class="mono">About</span>
+      <h1>About</h1>
+    </div>
+    <div class="prose">
+      <p>I'm a professor at EADA Business School in Barcelona, where I've been since 2017. Before that I was at Politecnico di Milano, where I also did my PhD, then at Audencia in Nantes and at the Zaragoza Logistics Center (MIT-SCALE). Along the way I spent time as a visitor at Arizona State, Oregon State, Portland State and LUT University in Finland.</p>
+      <p>My research is about sustainable supply chains. I started with purchasing and supplier relationships, and over the years moved towards social impact, systemic change and, more recently, post-growth: what supply chains look like when growth is not the only goal.</p>
+      <p>I've taught since 2007, from bachelor to executive programmes. I co-edit the Journal of Supply Chain Management, and for twelve years I served on the IPSERA executive committee. At EADA I also coordinate the ethical review board.</p>
+    </div>
+    <div class="block">
+      <header><span class="mono">Recognition</span><h2>Awards</h2></header>
+      <ul class="plain">
+        <li><span>2026</span><span>Top 10% most-viewed papers published in the Journal of Supply Chain Management in 2024, for <i>Rethinking supply chain management in a post-growth era</i></span></li>
+        <li><span>2019</span><span>Best paper award, IPSERA conference, with Annachiara Longoni and Mellie Pullman</span></li>
+        <li><span>2013</span><span>Best paper award, IPSERA conference, with Federico Caniato, Paolo Bagnoli and Gianluca Spina</span></li>
+        <li><span>2012</span><span>Best PhD paper award, EurOMA conference, with Andrea Patrucco and Stefano Ronchi</span></li>
+      </ul>
+    </div>
+    <div class="block">
+      <header><span class="mono">Elsewhere</span><h2>Links</h2></header>
+      <div class="contact">
+        <a href={SITE.cv}>Full academic CV</a>
+        <a href={SITE.orcid} rel="noopener">ORCID</a>
+        <a href={SITE.scholar} rel="noopener">Google Scholar</a>
+        <a href={SITE.linkedin} rel="noopener">LinkedIn</a>
+        <code>{SITE.email}</code>
+      </div>
+    </div>
+  </section>
+</Base>

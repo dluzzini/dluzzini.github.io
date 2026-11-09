@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import Explorer from '../components/Explorer.astro';
+import { talkList, talkItem } from '../lib/items';
+import { SITE } from '../config';
+---
+<Base title="Talks" description="Talks, keynotes, panels and workshops on supply chains, sustainability and post-growth, for companies, purchasing associations and academic audiences.">
+  <section class="view">
+    <div class="page-head">
+      <span class="mono">Talks</span>
+      <h1>Talks</h1>
+      <p class="lede">I'm happy to talk with companies, purchasing associations and sustainability forums, usually about what research says on supply chains, sustainability and post-growth, and what it might mean in practice. I prefer good conversations to shows.</p>
+    </div>
+    <div class="block">
+      <header><span class="mono">What I can talk about</span></header>
+      <div class="themes">
+        <div><h3>Post-growth and supply chains</h3><p>What changes in sourcing, metrics and supplier relationships when growth is not the only goal.</p></div>
+        <div><h3>Social impact in supply chains</h3><p>How social enterprises and hybrid organizations work with bigger companies, and how supply networks can drive change beyond one firm.</p></div>
+        <div><h3>Purchasing and suppliers</h3><p>Purchasing strategy, supplier collaboration and innovation, and how to make sustainability commitments real upstream.</p></div>
+      </div>
+    </div>
+    <div class="block">
+      <header><span class="mono">Keynotes, panels, seminars and workshops</span><h2>Past talks</h2></header>
+      <Explorer items={talkList.map(talkItem)} controls initial={6} noun="talks" placeholder="Search talks, events, places" />
+    </div>
+    <div class="block">
+      <header><span class="mono">Research projects, consulting and custom programmes</span><h2>Organisations I have worked with</h2></header>
+      <p class="orgs"><b>ABB</b>, <b>Ashoka</b>, <b>Cisco Systems</b>, <b>IBM</b>, <b>Italcementi</b>, <b>Leonardo</b>, <b>Luxottica</b>, <b>Mediolanum Bank</b>, <b>Reale Mutua</b>, <b>Siram</b>, <b>UniCredit</b>, <b>Vizzuality</b>, <b>Vodafone</b>, and EU research projects (AGROinLOG, LEARN, FIRST).</p>
+    </div>
+    <div class="block">
+      <header><span class="mono">Invitations and collaborations</span><h2>Get in touch</h2></header>
+      <p class="prose">If you think I could help with an event, a programme or a project, just write me.</p>
+      <div class="contact"><code id="mail">{SITE.email}</code><button type="button" class="textbtn" id="copyMail">Copy address</button></div>
+    </div>
+  </section>
+</Base>
+<script>
+  const btn = document.getElementById('copyMail'), mail = document.getElementById('mail');
+  btn?.addEventListener('click', () => {
+    const done = () => { btn.textContent = 'Copied'; setTimeout(() => (btn.textContent = 'Copy address'), 1600); };
+    const fallback = () => { const r = document.createRange(); r.selectNodeContents(mail!); const s = getSelection()!; s.removeAllRanges(); s.addRange(r); };
+    try { navigator.clipboard.writeText(mail!.textContent || '').then(done, fallback); } catch { fallback(); }
+  });
+</script>

@@ -1,0 +1,25 @@
+{
+  "name": "davideluzzini-com",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "data": "node scripts/bib2json.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/lexend": "^5.3.0",
+    "astro": "^7.4.7"
+  },
+  "devDependencies": {
+    "@retorquere/bibtex-parser": "^13.0.15"
+  }
+}

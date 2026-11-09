@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Post-growth supply chains",
+    "short": "What happens to supply chains when growth is not the default goal anymore? I look at how goals, metrics and relationships with suppliers change, often learning from companies that already work this way.",
+    "more": "With colleagues we opened this question in the Journal of Supply Chain Management in 2024, proposing three post-growth principles for the field: socio-ecological wellbeing, selective downscaling and systems thinking. I'm also one of the guest editors of a JSCM special issue on supply chains in a post-growth era.",
+    "papers": ["10.1111/jscm.12332"]
+  },
+  {
+    "name": "The footprint perspective",
+    "short": "Most research looks at sustainability from the buying company. The footprint perspective starts instead from the places where social and environmental impacts happen, where many supply chains and other actors meet.",
+    "more": "If harm emerges from many supply chains acting in the same place, an intervention that works for one company can leave the harm in place or just move it somewhere else. We introduced this perspective in JSCM in 2026. Related work looks at traceability and transparency: what a company can see, or not, beyond its first-tier suppliers.",
+    "papers": ["10.1111/jscm.70033", "10.1108/SCM-07-2024-0428", "10.1111/jbl.70084", "10.1002/joom.1150"]
+  },
+  {
+    "name": "Supply chain complexity",
+    "short": "Supply chains are getting longer, more global and harder to see. I look at what complexity in supply networks is, how to measure it, and what it does to performance.",
+    "more": "With Melek Akın Ateş, Robert Suurmond and colleagues we meta-analysed 123 empirical studies: complexity hurts operational performance, but it can help innovation and financial performance. With Melek I then reviewed more than twenty years of research to bring definitions, measures and theories together in one framework.",
+    "papers": ["10.1111/jscm.12264", "10.1111/jbl.12365"]
+  },
+  {
+    "name": "Systemic change",
+    "short": "Some problems are too big for one company. I study how supply networks, social enterprises and groups of organizations work together to change the system around them.",
+    "more": "We called for more research on systemic change in purchasing and supply management, and studied how social entrepreneurs, for-profit and nonprofit, try to change the systems they work in. More recent work looks at regenerative supply chains inspired by agroecology.",
+    "papers": ["10.1016/j.pursup.2024.100923", "10.1007/978-3-031-14216-1_10", "10.1016/j.pursup.2026.101171"]
+  },
+  {
+    "name": "Social impact",
+    "short": "Social enterprises and hybrid organizations try to create social value and stay economically viable at the same time. I study how they do it in supply chains, and what bigger companies can learn from them.",
+    "more": "Much of this work is with Annachiara Longoni and Madeleine Pullman: a JSCM paper on hybrid organizations in social impact supply chains, a study of a social enterprise working on migrant integration, and an IJOPM special issue on social enterprises in supply chains. I have also looked at how public procurement creates social value.",
+    "papers": ["10.1111/jscm.12163", "10.1111/jscm.12213", "10.1108/IJOPM-10-2023-0835", "10.1080/14719037.2023.2277814"]
+  }
+]
