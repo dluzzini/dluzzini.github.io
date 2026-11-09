@@ -40,7 +40,7 @@ const yearOpts = [] as number[]; for (let y = maxY; y >= minY; y--) yearOpts.pus
           {it.abs ? <p class="abs">{it.abs}</p> : emptyAbstract && <p class="none">{emptyAbstract}</p>}
           <div class="foot">
             {it.tags.length > 0 && <span class="chips">{it.tags.map(t => <span class="chip">{t}</span>)}</span>}
-            {it.link && <a href={it.link.href} rel="noopener">{it.link.label}</a>}
+            {it.link && <a href={it.link.href} target="_blank" rel="noopener">{it.link.label}</a>}
             {it.src && <span class="src">Abstract via {it.src}</span>}
           </div>
         </div>

@@ -1,7 +1,11 @@
 ---
 // Research topics, from src/data/topics.json. Papers are looked up by DOI in publications.json.
+// tiles: grid of hoverable tiles (home page); otherwise a plain list (Research page).
 import topics from '../data/topics.json';
 import { publications } from '../lib/items';
+
+interface Props { tiles?: boolean }
+const { tiles = false } = Astro.props;
 
 const byDoi = new Map(publications.filter(p => p.doi).map(p => [p.doi.toLowerCase(), p]));
 const list = topics.map(t => ({
@@ -11,9 +15,10 @@ const list = topics.map(t => ({
 const missing = topics.flatMap(t => t.papers.filter(d => !byDoi.has(d.toLowerCase())));
 if (missing.length) throw new Error('topics.json: DOI not in publications.json: ' + missing.join(', '));
 ---
-<div class="topics">
-  {list.map(t => (
+<div class:list={['topics', { tiles }]}>
+  {list.map((t, i) => (
     <article class="topic">
+      {tiles && <span class="tile-n mono">{String(i + 1).padStart(2, '0')}</span>}
       <h3>{t.name}</h3>
       <div class="topic-body">
         <p>{t.short}</p>
@@ -24,7 +29,7 @@ if (missing.length) throw new Error('topics.json: DOI not in publications.json: 
             <span class="mono">Selected papers</span>
             <ul>
               {t.papers.map(p => (
-                <li><a href={`https://doi.org/${p!.doi}`}>{p!.t}</a> <span class="pv">{p!.v}, {p!.y}</span></li>
+                <li><a href={`https://doi.org/${p!.doi}`} target="_blank" rel="noopener">{p!.t}</a> <span class="pv">{p!.v}, {p!.y}</span></li>
               ))}
             </ul>
           </div>
@@ -32,4 +37,25 @@ if (missing.length) throw new Error('topics.json: DOI not in publications.json: 
       </div>
     </article>
   ))}
+  {tiles && list.length % 3 === 2 && (
+    <a class="topic tile-link" href="/research/">
+      <span class="tile-n mono">→</span>
+      <h3>All my research</h3>
+      <p>Publications with abstracts, search and filters, and what I'm working on now.</p>
+    </a>
+  )}
 </div>
+<script>
+  // Home tiles: an opened tile takes the full row and other tiles fill the gaps, so bring it into view.
+  document.querySelectorAll<HTMLDetailsElement>('.topics.tiles details').forEach(d => {
+    d.addEventListener('toggle', () => {
+      if (!d.open) return;
+      const tile = d.closest('.topic') as HTMLElement;
+      const r = tile.getBoundingClientRect();
+      if (r.top < 70 || r.top > innerHeight * 0.6) {
+        const smooth = !matchMedia('(prefers-reduced-motion: reduce)').matches;
+        tile.scrollIntoView({ behavior: smooth ? 'smooth' : 'auto', block: 'start' });
+      }
+    });
+  });
+</script>

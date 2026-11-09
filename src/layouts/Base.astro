@@ -44,7 +44,7 @@ const person = {
         <a class="brand" href="/">Davide Luzzini</a>
         <nav class="navlinks" aria-label="Main">
           {NAV.map(n => <a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a>)}
-          <a class="cv" href={SITE.cv}>CV</a>
+          <a class="cv" href={SITE.cv} target="_blank" rel="noopener">CV</a>
         </nav>
       </div>
     </header>
@@ -55,10 +55,10 @@ const person = {
       <div class="wrap">
         <span>Davide Luzzini · EADA Business School · Barcelona</span>
         <nav aria-label="Footer">
-          <a href={SITE.orcid} rel="noopener">ORCID</a>
-          <a href={SITE.scholar} rel="noopener">Google Scholar</a>
-          <a href={SITE.linkedin} rel="noopener">LinkedIn</a>
-          <a href={SITE.cv}>Full CV</a>
+          <a href={SITE.orcid} target="_blank" rel="noopener">ORCID</a>
+          <a href={SITE.scholar} target="_blank" rel="noopener">Google Scholar</a>
+          <a href={SITE.linkedin} target="_blank" rel="noopener">LinkedIn</a>
+          <a href={SITE.cv} target="_blank" rel="noopener">Full CV</a>
         </nav>
       </div>
     </footer>

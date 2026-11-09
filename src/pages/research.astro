@@ -27,7 +27,7 @@ import { SITE } from '../config';
     <div class="block">
       <header><span class="mono">Journal articles, books and chapters</span><h2>Publications</h2></header>
       <Explorer items={publications.map(pubItem)} controls initial={8} noun="publications" placeholder="Search titles, co-authors, journals, abstracts" emptyAbstract="No abstract available yet." />
-      <p class="note">Abstracts come from OpenAlex and Crossref where available. Conference papers are listed in the <a href={SITE.cv}>full CV</a>.</p>
+      <p class="note">Abstracts come from OpenAlex and Crossref where available. Conference papers are listed in the <a href={SITE.cv} target="_blank" rel="noopener">full CV</a>.</p>
     </div>
   </section>
 </Base>
